@@ -1,0 +1,1183 @@
+------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056984140
+Number of Vioaltions : 29
+Location of Violation:
+['Veterinary College Garden, Bellary Road, RMV Stage II - 1st Block', 'SH33, Jampenahalli, Koratagere taluku', 'NH48, Dodderi, Nelamangala taluk', 'NH965, Solāpur, Solapur', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Mumbai-Pune Expressway, Talegaon, Pune', 'State Highway 60, Ahmadnagar, Maharashtra', 'Vashi, Palm Beach Marg, Sector 17', 'Thane Belapur North, Turbhe Village, Turbhe', 'Kattumnallur Gate, Old Madras Road, Kattamanallur', 'Grade Separator, Nigdi, Ravet', 'Medicity Hospital, Sion Panvel Highway, Kharghar', 'CBD Belapur ST Bus pickup, Sion Panvel Highway, Artists Village Sector 8A', 'Ravindu Toyota, Old Madras Road, Virgonagar', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'SH82, Nelavanki, Srinivasapura taluku', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Eastern Expressway, Samata Colony, Ghatkopar East', 'MIDC Pipeline Road, Shill Phata, Shill Gaon', 'Chandrapura Junction, Hosur Road, Suryanagar Phase 1', 'Bypass, Pashan, Bavdhan Budruk', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:17:21', '2020-02-03 04:30:10',
+               '2020-02-03 06:46:42', '2020-02-03 09:52:49',
+               '2020-02-03 10:49:49', '2020-02-03 11:38:31',
+               '2020-02-03 16:03:53', '2020-03-03 00:42:51',
+               '2020-03-03 03:32:17', '2020-03-03 07:18:50',
+               '2020-03-03 14:00:32', '2020-03-03 23:40:40',
+               '2020-04-03 04:49:51', '2020-04-03 07:25:55',
+               '2020-04-03 08:07:33', '2020-04-03 16:00:04',
+               '2020-04-03 17:17:54', '2020-05-03 00:43:57',
+               '2020-05-03 01:21:13', '2020-05-03 05:43:51',
+               '2020-05-03 07:00:57', '2020-06-03 01:45:12',
+               '2020-06-03 14:02:50', '2020-06-03 16:52:56',
+               '2020-06-03 16:53:05', '2020-06-03 20:15:56',
+               '2020-06-03 20:18:41', '2020-06-03 22:22:07',
+               '2020-06-03 23:14:02'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353082712636
+Number of Vioaltions : 191
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'SH3, Dasarahalli, Koratagere taluku', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'Swathi garden, Bellary Road, Sahakaranagara', 'Thanisandra, Geddalahalli, Bangalore Urban', 'NH965, Wakhari, Solāpur', 'Pune Nashik Road, Bhosari, Pune', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Dnyaneshwari Niwas, Katraj Ambegaon Khurd Road, Sahakar Nagar', 'Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'SH60, Ghodegaon, Ahmadnagar', 'SH60, Supe, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'K. Channasandra, Anagalapura, Bangalore Urban', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Outer Ring Road, Kanaka Nagar, Nagavara', 'Hebbal Bus Station, Bus Lane, Kanaka Nagar', 'Link Road, Veerabadhra Nagar, Perumbakkam', 'Masala Super King, Sion Panvel Highway, Kharghar', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'Thane Belapur Road, Ghansoli, Rabale', 'Thane Ghodbunder Road, Brahmand Nagar, Thane', 'Sion Panvel Highway, Sanpada, Shiravane', 'Shaheed Baghat Singh Marg, Artists Village Sector 8A, Belapur CBD', 'Thane Belapur North, Turbhe Village, Turbhe', 'Thane Belapur Road, Airoli, Greater Bombay', 'Royal Rasoi, Sector 2, Kharghar Station Road', 'Thane-Belapur South, Turbhe Village, Turbhe', 'Outer Ring Road, Saraswathi Nagar, Malagala', 'Old Madras Road, Devasandra, Shree Vinayaka Layout', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'SH47, Aurangabad, Maharashtra', 'Chennai Bypass, Surapattu, Chennai City Corporation Limits', 'vaijapur rod, Chapaner, Aurangabad', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'SH60, Ranjangaon, Pune', 'Sangamwadi Road, Mangalwar Peth, Pune', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'MDR27, Aurangabad, Maharashtra', 'Dehu Phata-Mosi, Alandi, Pune', 'Grade Separator, Nigdi, Pune', 'Palm Beach Road South, Sector 17, Sanpada', 'HDFC Bank, Service Road, Nerul', 'Palm Beach Road South, Seawoods, Karave', 'Palm Beach Marg, Seawoods, Karave', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'Sion Panvel Highway, Kharghar, Navi Mumbai', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'NH71, Chittoor, Andhra Pradesh', 'Shell, Bellary Road, RMV Stage II - 1st Block', 'SH82, Nelavanki, Srinivasapura taluku', 'Mumbai-Pune Expressway, Nigdi, Ravet', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Solapur Road, Hadapsar, Pune', 'Nigdi Exit, Nigdi, Ravet', 'Solapur Road, Bhandgaon, Pune', 'Deccan College Road, Suyojan Society, Koregaon Park', 'Bangalore Elevated Tollways Limited, Electronics City Phase 2 (East), Konappana Agrahara', 'Byatarayanapura, Arkavathy Layout, Jakkur', 'Bhagyada Bagilu Road, Gandhinagar, Yelahanka', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Solapur Road, Uruli Kanchan, Pune', 'Bellary Road, Gandhinagar, Yelahanka', 'Rajiv Gandhi Salai, Chennai City Corporation Limits, Kanchipuram', 'SH47, Undirgaon, Ahmadnagar', 'Jawahar Higher Secondary School, Jawaharlal Nehru Road (100 Feet Road), Postal Colony', 'Nandambakkam, Mount Poonamallee Highway, Labour Colony', 'Canara Bank ATM, Bellary Road, Gandhinagar', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'BPCL;MGL, Thane Belapur Road, Sector 19', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Thane Belapur Road, Turbhe Village, Sanpada', 'Watermelon stalls, NH48, New Panvel', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Eastern Expressway, Thane, Greater Bombay', 'S.L.N. Diagnostics, #108, Outer Ring Road', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'Karnataka College, Thanisandra Main Road, Thanisandra', 'Pallavaram Thuraipakkam Radial Road, Rajiv Nagar, Okkiyam Thuraipakkam', 'Shil Phata Mahape Road, Sector 19, Kopar Khairane', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Auto (tum-tum) Stand, Solapur Road, Hadapsar', 'Bypass, Chandani Chauk, Pune', 'Eastern Expressway, Samata Colony, Ghatkopar East', 'Zinia, Bypass, Ramnagar Colony', 'SH9, Alakapura, Gauribidanuru taluk', 'Hosur Road, Bommasandra, Hebbagodi', 'Hebbagodi Police Station, Hebbagodi road, Electronics City Phase 2 (West)', 'NH48, Nigdi, Ravet', 'Kamshet-1 Tunnel, Bedsa, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:19:48', '2020-02-03 04:08:22',
+               '2020-02-03 04:56:07', '2020-02-03 05:09:13',
+               '2020-02-03 05:09:23', '2020-02-03 05:09:34',
+               '2020-02-03 05:10:04', '2020-02-03 05:09:54',
+               '2020-02-03 05:42:06', '2020-02-03 09:32:20',
+               ...
+               '2020-06-03 19:33:35', '2020-06-03 19:33:45',
+               '2020-06-03 19:34:05', '2020-06-03 19:35:34',
+               '2020-06-03 19:35:42', '2020-06-03 19:47:20',
+               '2020-06-03 19:47:30', '2020-06-03 19:48:59',
+               '2020-06-03 19:49:09', '2020-06-03 19:49:19'],
+              dtype='datetime64[ns]', length=191, freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032197961
+Number of Vioaltions : 43
+Location of Violation:
+['Hosur Road, Suryanagar Phase 1, Neraluru', 'Chandrapura Junction, Hosur Road, Suryanagar Phase 1', 'Hosur Road, Anantnagar, Hebbagodi', 'Hale Chandapura, Hosur Road, Suryanagar Phase 1', 'HP Petrol / Gas Station, Bellary Road, Sahakaranagara', 'D-Mart, Grade Separator, Pimpri-Chinchwad', 'Signature Tulips Residential Plots, Huskuru, Hosakote taluk', 'CMC Byatrayanpura, Bellary Road, Sahakaranagara', 'NH48, Nigdi, Ravet', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Malavli, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Solapur Road BRTS, Magarpatta City, Fatima Nagar', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Magadi Road, Tagachaguppe, Magadi taluku', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Soluru, Bangalore Mangalore Highway, Narasandra', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH75, ಚೊಟ್ಟನಹಳ್ಳಿ, Kunigal taluk', 'NH60, Narayangaon, Pune', 'NH60, Ale, Pune']
+Time of Violation :
+DatetimeIndex(['2020-06-03 13:59:19', '2020-06-03 13:59:49',
+               '2020-06-03 14:01:29', '2020-06-03 14:01:39',
+               '2020-06-03 14:26:26', '2020-06-03 14:26:36',
+               '2020-06-03 14:28:26', '2020-06-03 14:29:27',
+               '2020-06-03 16:06:51', '2020-06-03 16:34:00',
+               '2020-06-03 17:56:39', '2020-06-03 18:03:00',
+               '2020-06-03 19:09:48', '2020-06-03 19:16:44',
+               '2020-06-03 19:26:30', '2020-06-03 19:27:40',
+               '2020-06-03 19:27:50', '2020-06-03 19:30:48',
+               '2020-06-03 19:30:58', '2020-06-03 19:40:27',
+               '2020-06-03 19:40:47', '2020-06-03 19:43:04',
+               '2020-06-03 19:43:09', '2020-06-03 19:48:41',
+               '2020-06-03 19:48:49', '2020-06-03 20:11:33',
+               '2020-06-03 20:12:20', '2020-06-03 20:13:11',
+               '2020-06-03 20:13:18', '2020-06-03 20:14:56',
+               '2020-06-03 18:42:29', '2020-06-03 22:15:15',
+               '2020-06-03 22:18:16', '2020-06-03 22:18:26',
+               '2020-06-03 22:21:17', '2020-06-03 22:20:06',
+               '2020-06-03 22:40:12', '2020-06-03 22:42:42',
+               '2020-06-03 23:47:47', '2020-06-03 23:47:57',
+               '2020-06-03 23:48:51', '2020-06-03 23:58:06',
+               '2020-06-03 23:58:10'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032006006
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'Inner Ring Road, Amarjyothi Layout, Challaghatta', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Jehur, Ahmadnagar', 'Avalahalli, Old Madras Road, Virgonagar', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'SH60, Shikrapur, Pune', 'Skoda Show Room, Service Road, AECS Layout', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'Solapur Road, Yavat, Pune', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Bangalore - Nelamangala Expressway, Madanayakanahalli, Bangalore Urban', 'Tambaram-Sriperumbudur Highway, Karasangal, Manimangalam', 'Sangamwadi Road, Somwar Peth, Pune', 'Mumbai Delhi Highway, Evershine Nagari, Nalasopara Phata', 'Reliance Mobile Store, Outer Ring Road, Ananda Nagara', 'SH60, Supe, Ahmadnagar', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Bangalore Mangalore Highway, Irubanahalli, Nagamangala taluk']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:59:13', '2020-02-03 06:46:18',
+               '2020-02-03 10:38:41', '2020-02-03 11:27:50',
+               '2020-02-03 14:59:03', '2020-02-03 22:44:55',
+               '2020-03-03 02:48:26', '2020-03-03 06:35:45',
+               '2020-03-03 11:59:07', '2020-03-03 21:18:04',
+               '2020-04-03 02:02:25', '2020-04-03 06:31:49',
+               '2020-04-03 11:43:24', '2020-04-03 17:15:51',
+               '2020-05-03 00:32:12', '2020-05-03 04:33:07',
+               '2020-05-03 06:18:07', '2020-05-03 13:32:00',
+               '2020-06-03 04:55:51', '2020-06-03 08:05:11',
+               '2020-06-03 14:27:52', '2020-06-03 20:13:00',
+               '2020-06-03 22:16:56', '2020-06-03 22:53:35'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353082668382
+Number of Vioaltions : 25
+Location of Violation:
+['Veterinary College Garden, Bellary Road, RMV Stage II - 1st Block', 'NH48, Pandithana Halli, Tumkur taluk', 'NH965, Natepute, Solāpur', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Pune Nashik Road, Kasarwadi, Pune', 'Avalahalli, Old Madras Road, Virgonagar', 'VIP road, Idgah hills, Bhopal', 'Laggere Bridge, Outer Ring Road, Laggere', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Bellary Road, Gandhinagar, Yelahanka', 'Outer Ring Road, Poojappa Layout, Nagavara', 'SH82, Nelavanki, Srinivasapura taluku', 'Solapur Road, Yavat, Pune', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'BPCL;MGL, Thane Belapur Road, Sector 19', 'Outer Ring Road, Thirumudivakkam SIDCO Industrial Estate, Valathulampedu', 'Bypass, Sahakar Nagar, Dhayari', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Khandoba Mandir, Akurdi Chowk, Nigdi', 'Chandrapura Junction, Hosur Road, Suryanagar Phase 1', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:17:31', '2020-02-03 06:37:40',
+               '2020-02-03 10:29:27', '2020-02-03 11:33:31',
+               '2020-02-03 17:09:53', '2020-02-03 22:44:15',
+               '2020-03-03 03:25:32', '2020-03-03 07:01:59',
+               '2020-03-03 12:15:19', '2020-03-03 21:44:00',
+               '2020-04-03 02:04:00', '2020-04-03 06:50:14',
+               '2020-04-03 11:43:44', '2020-04-03 17:18:44',
+               '2020-05-03 00:32:22', '2020-05-03 04:33:37',
+               '2020-05-03 06:19:37', '2020-05-03 12:50:44',
+               '2020-06-03 04:52:37', '2020-06-03 07:51:36',
+               '2020-06-03 14:03:00', '2020-06-03 20:04:45',
+               '2020-06-03 20:21:16', '2020-06-03 22:11:04',
+               '2020-06-03 22:45:53'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055304993
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056079586
+Number of Vioaltions : 20
+Location of Violation:
+['SH60, Ahmadnagar, Maharashtra', 'Palm Beach Marg, Seawoods, Karave', 'Bellary Road, Sahakaranagara, Jakkur', 'Bangalore - Nelamangala Expressway, Peenya 2nd Stage, Peenya', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'State Highway 10, Rahuri, Ahmadnagar', 'New Holkar Bridge, Mandalay Lines, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 16:18:35', '2020-02-03 16:19:35',
+               '2020-02-03 16:19:55', '2020-02-03 16:21:14',
+               '2020-04-03 00:57:14', '2020-04-03 00:57:21',
+               '2020-04-03 00:57:31', '2020-04-03 00:57:41',
+               '2020-04-03 00:57:51', '2020-04-03 00:58:01',
+               '2020-05-03 04:24:25', '2020-05-03 04:24:35',
+               '2020-05-03 04:24:45', '2020-05-03 04:24:55',
+               '2020-05-03 04:25:05', '2020-05-03 04:25:15',
+               '2020-06-03 13:03:13', '2020-06-03 13:03:23',
+               '2020-06-03 13:13:15', '2020-06-03 13:32:09'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056803167
+Number of Vioaltions : 17
+Location of Violation:
+['Hebbal, Srinagar - Kanyakumari Highway, Kanaka Nagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Skoda Show Room, Service Road, AECS Layout', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku']
+Time of Violation :
+DatetimeIndex(['2020-04-03 01:02:36', '2020-04-03 01:02:46',
+               '2020-04-03 01:02:56', '2020-04-03 01:03:06',
+               '2020-04-03 01:03:16', '2020-04-03 01:03:26',
+               '2020-05-03 05:42:01', '2020-05-03 05:42:41',
+               '2020-05-03 05:42:51', '2020-05-03 05:43:21',
+               '2020-05-03 05:43:31', '2020-06-03 22:29:29',
+               '2020-06-03 22:29:39', '2020-06-03 22:29:49',
+               '2020-06-03 22:30:09', '2020-06-03 22:32:40',
+               '2020-06-03 22:33:00'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032007988
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'Solapur Road, Hadapsar, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Jehur, Ahmadnagar', 'Manu Bar & Restaurant, Old Madras Road, Devasandra', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Inner Ring Road, Amarjyothi Layout, Challaghatta', 'SH60, Ranjangaon, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'Solapur Road, Yavat, Pune', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Grand Southern Trunk Road, Peerkankaranai, Irumbuliyur', 'Bypass, Pashan, Sus Gaon', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Sangamwadi Road, Mangalwar Peth, Pune', 'Khandoba Mandir, Akurdi Chowk, Nigdi', 'Hale Chandapura, Hosur Road, Suryanagar Phase 1', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Bangalore Mangalore Highway, Irubanahalli, Nagamangala taluk']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:59:32', '2020-02-03 06:23:26',
+               '2020-02-03 10:24:30', '2020-02-03 11:28:20',
+               '2020-02-03 14:59:13', '2020-02-03 22:45:35',
+               '2020-03-03 02:53:43', '2020-03-03 06:35:55',
+               '2020-03-03 12:12:45', '2020-03-03 22:53:47',
+               '2020-04-03 02:02:35', '2020-04-03 06:32:20',
+               '2020-04-03 11:41:53', '2020-04-03 17:17:43',
+               '2020-05-03 01:10:39', '2020-05-03 04:38:16',
+               '2020-05-03 06:25:35', '2020-05-03 13:32:00',
+               '2020-06-03 05:02:01', '2020-06-03 07:53:06',
+               '2020-06-03 14:28:16', '2020-06-03 20:13:26',
+               '2020-06-03 22:17:16', '2020-06-03 22:54:35'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032009992
+Number of Vioaltions : 12
+Location of Violation:
+['SH94, Allipura, Gauribidanuru taluk', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'SH60, Ahmadnagar, Maharashtra', 'Palm Beach Marg, Sector 11, Kopar Khairane', 'Royal Rasoi, Sector 2, Kharghar Station Road', 'SH60, Ranjangaon, Pune', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Bruice Bar & Restaurant, Old Madras Road, Devasandra', 'Pillaiyar Koil Street, Metukuppam, Okkiyam Thuraipakkam', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:47:29', '2020-02-03 10:42:24',
+               '2020-02-03 14:25:53', '2020-03-03 00:41:30',
+               '2020-03-03 05:42:56', '2020-03-03 13:35:36',
+               '2020-04-03 01:43:23', '2020-04-03 07:23:55',
+               '2020-04-03 17:03:45', '2020-06-03 22:12:25',
+               '2020-06-03 22:11:34', '2020-06-03 23:44:25'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728039189920
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032055458
+Number of Vioaltions : 24
+Location of Violation:
+['Western Express Highway, Vaishali Nagar, Kashimira', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'NH965, Pimprud, Satara', 'SH60, Ahmadnagar, Maharashtra', 'Palm Beach Road South, Sector 17, Sanpada', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'Grand Southern Trunk Road, Singaperumal Koil, Kanchipuram district', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Srinagar - Kanyakumari Highway, Kanaka Nagar, Hebbal', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Sangamwadi Road, Somwar Peth, Pune', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Old Madras Road, Devasandra, Shree Vinayaka Layout', 'Grade Separator, Chinchwad, Pune', 'Eastern Expressway, Ghatkopar, Ghatkopar East', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:29:32', '2020-02-03 07:21:31',
+               '2020-02-03 10:49:05', '2020-02-03 11:48:21',
+               '2020-02-03 16:18:25', '2020-03-03 00:44:20',
+               '2020-03-03 04:49:07', '2020-03-03 07:31:10',
+               '2020-03-03 16:20:15', '2020-04-03 00:39:17',
+               '2020-04-03 04:54:12', '2020-04-03 07:38:11',
+               '2020-04-03 15:17:05', '2020-04-03 22:03:08',
+               '2020-05-03 01:04:32', '2020-05-03 04:54:18',
+               '2020-05-03 06:54:52', '2020-06-03 00:34:36',
+               '2020-06-03 06:16:33', '2020-06-03 10:31:26',
+               '2020-06-03 19:16:34', '2020-06-03 20:20:51',
+               '2020-06-03 22:27:58', '2020-06-03 23:46:00'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056972772
+Number of Vioaltions : 24
+Location of Violation:
+['SH33, Obalapura, Tumkur taluk', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Mumbai-Pune Expressway, Malavli, Pune', 'SH60, Aurangabad, Maharashtra', 'Thanisandra, Chikkagubbi, Bangalore Urban', 'Kodigehalli Gate, Sahakaranagara, Jakkur', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Nagar Road, Ward 12, Pune', 'vaijapur rod, Chapaner, Aurangabad', 'Bellary Road, Sahakaranagara, Jakkur', 'Kalewadi Main Road, Pimple Nilakh, Pune', 'Jayshree Executive, Solapur Road, Theur Phata', 'SH82, Kallahalli, Chintamani taluk', 'BP, Anna Salai (Mount Road), Labour Colony', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Vasai Road, Evershine Nagari, Vasai-Virar', 'Spine Road, Ajmera, Pune', 'D Rajagopal Road, RMV Stage II - 1st Block, Raj Mahal Vilas', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Kamshet-1 Tunnel, Bedsa, Pune', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'NH75, Mallaghatta, Kunigal taluk', 'Mulund-Airoli Bridge, Mulund East, Diva Koliwada']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:38:00', '2020-02-03 07:28:56',
+               '2020-02-03 11:16:21', '2020-02-03 14:03:05',
+               '2020-02-03 18:03:22', '2020-03-03 01:07:22',
+               '2020-03-03 05:15:33', '2020-03-03 08:27:42',
+               '2020-03-03 17:06:28', '2020-04-03 01:04:16',
+               '2020-04-03 05:42:23', '2020-04-03 07:55:01',
+               '2020-04-03 15:50:42', '2020-04-03 23:14:27',
+               '2020-05-03 01:19:08', '2020-05-03 04:49:53',
+               '2020-05-03 07:06:42', '2020-06-03 01:11:56',
+               '2020-06-03 07:01:09', '2020-06-03 10:37:58',
+               '2020-06-03 19:36:53', '2020-06-03 20:29:30',
+               '2020-06-03 22:34:40', '2020-06-03 23:45:56'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056904965
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055349949
+Number of Vioaltions : 24
+Location of Violation:
+['Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Solapur Road, Hadapsar, Pune', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Ahmadnagar Aurangabad Highway, Ghodegaon, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Thane Belapur Road, Sector 15, Kopar Khairane', 'Action One Shop, 78/2, Hosur Road', 'SH24, Jālgaon, Jalgaon', 'Byatarayanapura, Arkavathy Layout, Jakkur', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Indian Oil, Service Road, Electronics City Phase 2 (East)', 'Mulund-Airoli Bridge, Mulund East, Diva Koliwada', 'Pillaiyar Koil Street, Metukuppam, Okkiyam Thuraipakkam', 'Mulund-Airoli Bridge, Tatanagar, Mulund East', 'Bangalore - Nelamangala Expressway, Madanayakanahalli, Bangalore Urban', 'Nagar Road, Kharadi, Wagholi', 'SH58, Pune, Maharashtra', 'Arcee Electronics, Sector 2, Pravesh Marg', 'Pune Nashik Road, Kasarwadi, Pune', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'Thane Belapur Road, Ghansoli, Rabale', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:11:50', '2020-02-03 05:31:59',
+               '2020-02-03 10:15:38', '2020-02-03 11:24:00',
+               '2020-02-03 14:40:33', '2020-02-03 22:41:00',
+               '2020-03-03 02:30:57', '2020-03-03 06:23:50',
+               '2020-03-03 11:22:31', '2020-03-03 17:59:32',
+               '2020-04-03 01:55:54', '2020-04-03 06:08:34',
+               '2020-04-03 10:09:50', '2020-04-03 17:03:35',
+               '2020-05-03 00:31:22', '2020-05-03 04:31:57',
+               '2020-05-03 05:12:54', '2020-05-03 08:38:42',
+               '2020-06-03 03:29:22', '2020-06-03 07:21:40',
+               '2020-06-03 13:58:08', '2020-06-03 19:51:21',
+               '2020-06-03 22:08:34', '2020-06-03 22:46:13'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612088436147
+Number of Vioaltions : 24
+Location of Violation:
+['SH9, Tippaganahalli, Gauribidanuru taluk', 'NH965, Upari, Solāpur', 'Kamshet-1 Tunnel, Bedsa, Pune', 'Ahmadnagar Aurangabad Highway, Bhanas, Ahmadnagar', 'NH965, Jejuri, Pune', 'Nagar Road, Kharadi, Wagholi', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'MDR27, Aurangabad, Maharashtra', 'shoppers stop', 'NH71, Vayalpad, Chittoor', 'Kondhwa Marg, Pune Cantonment, Pune', 'Mumbai Pune Road, Ravet, Pune', 'Maduravoyal Interchange, Chennai Bangalore Highway, Maduravoyal', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Outer Ring Road, P R Layout, Marathahalli', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'Mumbai-Pune Expressway, Malavli, Pune', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'NH75, Mallaghatta, Kunigal taluk', 'NH60, Ale, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:55:47', '2020-02-03 09:49:27',
+               '2020-02-03 11:21:11', '2020-02-03 14:29:43',
+               '2020-02-03 18:49:23', '2020-03-03 01:31:48',
+               '2020-03-03 05:43:27', '2020-03-03 09:40:39',
+               '2020-03-03 17:22:42', '2020-04-03 00:41:04',
+               '2020-04-03 05:59:58', '2020-04-03 08:48:13',
+               '2020-04-03 16:21:52', '2020-05-03 00:44:07',
+               '2020-05-03 04:31:07', '2020-05-03 04:55:39',
+               '2020-05-03 07:34:32', '2020-06-03 03:28:31',
+               '2020-06-03 07:04:21', '2020-06-03 10:51:41',
+               '2020-06-03 19:41:17', '2020-06-03 21:07:19',
+               '2020-06-03 22:37:11', '2020-06-03 23:59:43'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030585423
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056983829
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030794835
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032156280
+Number of Vioaltions : 152
+Location of Violation:
+['SH50;SH60, Ahmadnagar, Maharashtra', 'SH60, Shirur, Pune', 'Sant Jnaneshwar Marg, Bhosari, Pune', 'SH33, Obalapura, Tumkur taluk', 'Outer Ring Road, Saraswathi Nagar, Kamakshipalya', 'Solapur Road, Hadapsar, Pune', 'NH48, Pandithana Halli, Tumkur taluk', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Grand Southern Trunk Road, Mahindra City, Singaperumal Koil', 'Cafe Coffee Day, Outer Ring Road, Ananda Nagara', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'Jejuri Morgaon Baramati Road, Pune, Maharashtra', 'Mumbai-Pune Expressway, Malavli, Pune', 'Kamshet-1 Tunnel, Bedsa, Pune', 'Mumbai-Pune Expressway, Talegaon, Pune', 'NH965, Pimprud, Satara', 'Sangamwadi Road, Somwar Peth, Pune', 'Sangamwadi Road, Mangalwar Peth, Pune', 'SH60, Ahmadnagar, Maharashtra', 'Ahmadnagar Aurangabad Highway, Ghodegaon, Ahmadnagar', 'State Highway 60, Chas, Ahmadnagar', 'SH60, Supe, Ahmadnagar', 'Sri Shubha Sapthagiri Convention Hall, Old Madras Road, Virgonagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Avalahalli, Old Madras Road, Virgonagar', 'Jn of Dasarahalli Road, Dasarahalli Main Road, Kanaka Nagar', 'Masala Super King, Sion Panvel Highway, Kharghar', 'Palm Beach Road South, Sector 17, Sanpada', 'Sion Panvel Highway, Parsik Hill, Nerul', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Kodigehalli Gate, Sahakaranagara, Jakkur', 'Madya Kailash, Rajiv Gandhi IT Expressway, Kasturibai Nagar', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Thane Belapur Road, Airoli, Greater Bombay', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'VIP road, Idgah hills, Bhopal', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'Old Pune–Mumbai Highway, Ravet, Pune', 'Action One Shop, 78/2, Hosur Road', 'Hosur Road, AECS Layout, A block', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Chimmasandra Cross, Old Madras Road, Virgonagar', 'NH52, Jālgaon, Jalgaon', 'SH24, Jālgaon, Jalgaon', 'SH60, Ranjangaon, Pune', 'vaijapur rod, Chapaner, Aurangabad', 'MDR27, Aurangabad, Maharashtra', 'SH104, Thanisandra, Bellahalli', 'Rampura, Rampura Main Road, K. Channasandra', 'Poonam Furniture House, Hosur Road, Electronics City Phase 1', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Outer Ring Road, Darga Mohalla, Udaya Nagar', 'NH48, New Panvel, Panvel', 'NH71, Chittoor, Andhra Pradesh', 'Up and Above, NDA Road, Chandani Chauk', 'SBI ATM, Grand Southern Trunk Road, Vandalur', 'Ravindu Toyota, Old Madras Road, Virgonagar', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Bellary Road, Bhuvanahalli, Devanahalli taluk', 'Solapur Road, Yavat, Pune', 'Solapur Road, Bhandgaon, Pune', 'Priyadarshini Petrol / Gas Station, Hosur Road, Anantnagar', 'SH82, Kallahalli, Chintamani taluk', 'SH82, Nelavanki, Srinivasapura taluku', 'Pillaiyar Koil Street, Metukuppam, Okkiyam Thuraipakkam', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Solapur Road, Uruli Kanchan, Pune', 'Grand Southern Trunk Road, Ram Nagar, Pazhavanthangal', 'Diva Koliwada Road, Airoli, Diva Koliwada', 'Western Express Highway, Vaishali Nagar, Dahisar East', 'Grade Separator, Nigdi, Pune', 'Rajanukunte, Kakolu Road, Ittagalapura', 'Deccan College Road, Koregaon Park, Pune', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Mundhwa Road, Magarpatta City, Mundhwa', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'Mumbai-Bangalore Highway, Sahakar Nagar, Pune', 'Eastern Expressway, Tatanagar, Mulund East', 'Mumbai-Pune Expressway, Nigdi, Ravet', 'Grade Separator, Nigdi, Ravet', 'Krishnarajapuram Hanging Bridge, Darga Mohalla, B. Narayanapura', 'Bevina Mara, SH35, Kadugodi', 'SH9, Alakapura, Gauribidanuru taluk', 'Budigere Road, Handrahalli, Devanahalli taluk', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:56:39', '2020-02-03 01:02:04',
+               '2020-02-03 01:02:14', '2020-02-03 01:02:24',
+               '2020-02-03 03:42:12', '2020-02-03 03:42:22',
+               '2020-02-03 04:38:45', '2020-02-03 04:48:00',
+               '2020-02-03 05:32:09', '2020-02-03 05:32:19',
+               ...
+               '2020-06-03 07:20:26', '2020-06-03 07:42:54',
+               '2020-06-03 07:51:06', '2020-06-03 08:21:50',
+               '2020-06-03 08:25:49', '2020-06-03 10:27:25',
+               '2020-06-03 17:51:38', '2020-06-03 20:18:21',
+               '2020-06-03 22:26:58', '2020-06-03 23:13:34'],
+              dtype='datetime64[ns]', length=152, freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030566894
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055375456
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'SH94, Allipura, Gauribidanuru taluk', 'Wakad Road, Vishal Nagar, Pimple Saudagar', 'Mumbai-Pune Expressway, Malavli, Pune', 'SH60, Pravara Sangam, Aurangabad', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'MDR27, Aurangabad, Maharashtra', 'SH60, Koregaon, Pune', 'Palm Beach Marg, Seawoods, Karave', 'Croma, 8th Main Road, Lower Palace Orchard', 'Bellary Road, Bhuvanahalli, Devanahalli taluk', 'SH82, Nelavanki, Srinivasapura taluku', 'Outer Ring Road, Darga Mohalla, Mahadevapura', 'NH48, Pune, Maharashtra', 'NH12, Bhopal, Sehore', 'NH48 Bypass, Nigdi, Ravet', 'Pune Nashik Road, Chakan, Pune', 'Sangamwadi Road, Somwar Peth, Pune', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'NH75, Mallaghatta, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:16:35', '2020-02-03 04:44:59',
+               '2020-02-03 07:38:00', '2020-02-03 11:17:41',
+               '2020-02-03 14:17:35', '2020-02-03 18:28:29',
+               '2020-03-03 01:08:32', '2020-03-03 05:15:53',
+               '2020-03-03 09:02:19', '2020-03-03 14:43:50',
+               '2020-04-03 00:57:14', '2020-04-03 05:33:18',
+               '2020-04-03 08:56:09', '2020-04-03 15:56:03',
+               '2020-04-03 23:32:01', '2020-05-03 03:30:38',
+               '2020-05-03 05:06:24', '2020-05-03 07:22:56',
+               '2020-06-03 02:58:17', '2020-06-03 07:14:33',
+               '2020-06-03 10:36:58', '2020-06-03 19:38:27',
+               '2020-06-03 20:29:20', '2020-06-03 22:36:01'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306054369419
+Number of Vioaltions : 24
+Location of Violation:
+['Bypass, Infosys Hinjewadi Phase 2, Mhalunge', '', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Mumbai-Pune Expressway, Talegaon, Pune', 'State Highway 60, Chas, Ahmadnagar', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Thane Belapur Road, Sector 15, Kopar Khairane', 'Kattumnallur Gate, Old Madras Road, Kattamanallur', 'Aerodrome, Sahakaranagara, Jakkur', 'Outer Ring Road, JP Nagar 2nd Phase, J P Nagar', 'Sion Panvel Highway, Nerul, Shiravane', 'Ravindu Toyota, Old Madras Road, Virgonagar', 'Solapur Road, Bhandgaon, Pune', 'Anantapur, Anantapur district, Andhra Pradesh', 'Bellary Road, Sahakaranagara, Jakkur', 'Horamavu Petrol Bunk, Outer Ring Road, GNR Gardens', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'SH60, Ranjangaon, Pune', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:34:31', '2020-02-03 07:02:14',
+               '2020-02-03 11:10:10', '2020-02-03 11:37:00',
+               '2020-02-03 16:00:56', '2020-03-03 00:43:49',
+               '2020-03-03 03:34:06', '2020-03-03 07:18:10',
+               '2020-03-03 14:19:22', '2020-03-03 23:21:09',
+               '2020-04-03 04:46:42', '2020-04-03 07:24:35',
+               '2020-04-03 11:48:31', '2020-04-03 17:07:09',
+               '2020-05-03 01:10:33', '2020-05-03 04:48:21',
+               '2020-05-03 06:29:06', '2020-06-03 00:38:29',
+               '2020-06-03 05:06:02', '2020-06-03 10:09:27',
+               '2020-06-03 15:52:43', '2020-06-03 20:14:28',
+               '2020-06-03 22:21:27', '2020-06-03 23:45:50'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056915995
+Number of Vioaltions : 24
+Location of Violation:
+['SH3, Dasarahalli, Koratagere taluku', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Kalewadi Main Road, Pimple Nilakh, Pune', 'SH60, Ahmadnagar, Maharashtra', 'Bellary Road, Sahakaranagara, Jakkur', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Grand Southern Trunk Road, Vandalur, Varadarajapuram', 'vaijapur rod, Chapaner, Aurangabad', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'NH48, New Panvel, Panvel', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Asha Handicrafts Association, R R Industrial Estate, Western Express Highway', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:04:06', '2020-02-03 06:34:04',
+               '2020-02-03 11:09:30', '2020-02-03 12:30:58',
+               '2020-02-03 16:30:37', '2020-03-03 01:00:50',
+               '2020-03-03 04:50:16', '2020-03-03 07:42:09',
+               '2020-03-03 16:52:24', '2020-04-03 00:47:10',
+               '2020-04-03 04:55:32', '2020-04-03 07:39:13',
+               '2020-04-03 15:18:05', '2020-04-03 22:33:17',
+               '2020-05-03 01:03:42', '2020-05-03 04:54:57',
+               '2020-05-03 06:55:22', '2020-06-03 00:38:09',
+               '2020-06-03 06:16:03', '2020-06-03 10:32:16',
+               '2020-06-03 19:30:28', '2020-06-03 20:21:11',
+               '2020-06-03 22:28:29', '2020-06-03 23:45:40'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055349931
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030777491
+Number of Vioaltions : 55
+Location of Violation:
+['Bypass, Chandani Chauk, Pune', 'Bypass, Warje, Pune', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'HP petrol bank, Bellary Road, Sahakaranagara', 'Westerly Diversion, Ravet, Pune', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'BRTS, Nigdi, Ravet', 'Tea Kadai Bus Stop, Grand Southern Trunk Road, Guduvancheri', 'Grand Southern Trunk Road, Vandalur, Varadarajapuram', 'National Highway 4, New Panvel, Panvel', 'Chennai Bypass Expressway, Vanagaram, Ayanambakkam', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Sangamwadi Road, Somwar Peth, Pune', 'Sutarwadi, Pashan Lake Road, Ramnagar Colony', 'Bypass, Pashan, Bavdhan Budruk', 'D-Mart, Hosur Road, Anantnagar', 'Outer Ring Road, Vijaya Bank Colony, Kasturi Nagar', 'Grade Separator, Chinchwad, Pune', 'Bellahalli Cross, SH104, Thanisandra', 'Gundur, Bangalore Urban, Karnataka', 'HP Petrol / Gas Station, Bellary Road, Sahakaranagara', 'Bellary Road, Sahakaranagara, Jakkur', 'Konappana Agrahara, Hosur Road, Electronics City Phase 1', 'Maduravoyal Interchange, Maduravoyal, Ayanambakkam', 'Chennai Bypass Expressway, Karampakkam, Thelliyaragaram', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'Inner Ring Road, VGP Selva Nagar, Velachery', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'Link Road 1, Char Imli, Kolar', 'Sterling School, Pune Nashik Road, Bhosari', 'Pune Nashik Road, Chakan, Pune', 'Arcee Electronics, Sector 2, Pravesh Marg', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Sion Panvel Highway, Parsik Hill, Belapur CBD', 'Thane Belapur North, Turbhe Village, Turbhe', 'Mumbai Delhi Highway, Evershine Nagari, Nalasopara Phata', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Mundhwa Road, Magarpatta City, Mundhwa', 'Pune Nashik Road, Kasarwadi, Pune', 'SH60, Ranjangaon, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'NH75, ಚೊಟ್ಟನಹಳ್ಳಿ, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-05-03 07:13:44', '2020-05-03 07:13:54',
+               '2020-05-03 07:19:01', '2020-05-03 07:19:11',
+               '2020-05-03 07:32:34', '2020-05-03 07:34:22',
+               '2020-05-03 07:37:12', '2020-05-03 07:43:34',
+               '2020-05-03 07:46:53', '2020-05-03 07:40:20',
+               '2020-05-03 07:50:37', '2020-05-03 09:52:04',
+               '2020-05-03 09:52:44', '2020-05-03 13:32:10',
+               '2020-05-03 13:37:37', '2020-05-03 13:37:57',
+               '2020-05-03 13:45:57', '2020-05-03 15:24:25',
+               '2020-05-03 16:44:58', '2020-05-03 17:42:48',
+               '2020-05-03 17:59:33', '2020-05-03 23:30:12',
+               '2020-05-03 23:30:22', '2020-06-03 00:09:31',
+               '2020-06-03 00:13:20', '2020-06-03 00:39:35',
+               '2020-06-03 00:40:05', '2020-06-03 00:41:33',
+               '2020-06-03 01:01:42', '2020-06-03 01:02:40',
+               '2020-06-03 01:02:50', '2020-06-03 01:50:27',
+               '2020-06-03 01:50:37', '2020-06-03 02:52:04',
+               '2020-06-03 02:52:19', '2020-06-03 02:57:49',
+               '2020-06-03 02:57:53', '2020-06-03 03:29:31',
+               '2020-06-03 03:29:42', '2020-06-03 03:29:51',
+               '2020-06-03 03:30:01', '2020-06-03 03:33:32',
+               '2020-06-03 03:40:42', '2020-06-03 03:40:52',
+               '2020-06-03 04:53:31', '2020-06-03 04:54:01',
+               '2020-06-03 04:54:21', '2020-06-03 04:54:31',
+               '2020-06-03 05:02:11', '2020-06-03 05:08:59',
+               '2020-06-03 07:21:16', '2020-06-03 12:44:17',
+               '2020-06-03 19:48:19', '2020-06-03 22:09:14',
+               '2020-06-03 22:42:22'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032146273
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056914063
+Number of Vioaltions : 24
+Location of Violation:
+['SH60, Ahmadnagar, Maharashtra', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Supe, Ahmadnagar', 'Masala Super King, Sion Panvel Highway, Kharghar', 'Thane Belapur Road, Sector 15, Kopar Khairane', 'Kattumnallur Gate, Old Madras Road, Kattamanallur', 'Bellary Road, Gandhinagar, Yelahanka', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'SH82, Chimanahalli, Chintamani taluk', 'Gold Hill Square, 12F, No. 690', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'Sant Jnaneshwar Marg, Yerawada, Pune', 'Poonam Furniture House, Hosur Road, Electronics City Phase 1', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Auto (tum-tum) Stand, Solapur Road, Hadapsar', 'SH60, Ranjangaon, Pune', 'Kannuru, SH104, Thanisandra', 'Madap Tunnel, Khalapur, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:51:26', '2020-02-03 07:21:39',
+               '2020-02-03 10:46:32', '2020-02-03 11:37:50',
+               '2020-02-03 16:07:24', '2020-03-03 00:44:08',
+               '2020-03-03 03:33:46', '2020-03-03 07:18:20',
+               '2020-03-03 14:20:12', '2020-03-03 23:41:50',
+               '2020-04-03 04:50:32', '2020-04-03 07:27:09',
+               '2020-04-03 12:04:05', '2020-05-03 14:23:09',
+               '2020-05-03 14:34:54', '2020-05-03 15:13:32',
+               '2020-05-03 15:13:42', '2020-05-03 23:57:07',
+               '2020-06-03 05:15:10', '2020-06-03 10:10:54',
+               '2020-06-03 17:26:02', '2020-06-03 20:16:51',
+               '2020-06-03 22:22:57', '2020-06-03 23:14:50'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056934061
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'State Highway 60, Chas, Ahmadnagar', 'Velachery - Tambaram Main Road, Gowriwakkam, Heritage Jayendra Nagar', 'Thane Belapur North, Turbhe Village, Turbhe', 'Chimmasandra Cross, Old Madras Road, Virgonagar', 'SH60, Ranjangaon, Pune', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Ravindu Toyota, Old Madras Road, Virgonagar', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Canara Bank ATM, Bellary Road, Gandhinagar', 'Harbour Line Flyover, Anik Nagar, Sion East', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'Deccan College Road, Yerawada, Pune', 'sri gandha palace', 'SH60, Koregaon, Pune', 'Magadi Road, Tagachaguppe, Magadi taluku', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Peth, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:20:18', '2020-02-03 06:55:46',
+               '2020-02-03 10:42:14', '2020-02-03 11:38:21',
+               '2020-02-03 16:01:06', '2020-03-03 00:37:53',
+               '2020-03-03 03:31:57', '2020-03-03 07:17:10',
+               '2020-03-03 13:40:47', '2020-03-03 23:41:19',
+               '2020-04-03 04:50:02', '2020-04-03 07:24:45',
+               '2020-04-03 15:14:34', '2020-04-03 18:43:22',
+               '2020-05-03 01:11:03', '2020-05-03 04:46:47',
+               '2020-05-03 06:09:43', '2020-06-03 06:02:45',
+               '2020-06-03 07:13:54', '2020-06-03 08:37:58',
+               '2020-06-03 17:29:57', '2020-06-03 18:42:09',
+               '2020-06-03 22:21:47', '2020-06-03 23:12:52'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032028745
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'SH60, Ahmadnagar, Maharashtra', '9th Street, Ferns Paradise, Doddanekundi', 'VIP road, Idgah hills, Bhopal', 'Chimmasandra Cross, Old Madras Road, Virgonagar', 'SH60, Ranjangaon, Pune', 'Outer Ring Road, Darga Mohalla, Udaya Nagar', 'Sion Panvel Highway, Parsik Hill, Belapur CBD', 'Ravindu Toyota, Old Madras Road, Virgonagar', 'Old Madras Road, Devasandra, Shree Vinayaka Layout', 'Bellary Road, Sahakaranagara, Jakkur', 'Sion Panvel Highway, Nerul, Shiravane', 'Old Madras Road, Devasandra, ITI Colony', 'HP Petrol / Gas Station, Bellary Road, Sahakaranagara', 'Solapur Road, Hadapsar, Pune', 'SH9, Alakapura, Gauribidanuru taluk', 'Signature Tulips Residential Plots, Huskuru, Hosakote taluk', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:21:19', '2020-02-03 06:53:11',
+               '2020-02-03 10:42:54', '2020-02-03 11:37:21',
+               '2020-02-03 16:17:55', '2020-03-03 00:42:28',
+               '2020-03-03 03:25:45', '2020-03-03 07:17:50',
+               '2020-03-03 13:39:37', '2020-03-03 23:38:06',
+               '2020-04-03 04:48:21', '2020-04-03 07:24:25',
+               '2020-04-03 13:17:50', '2020-04-03 20:03:59',
+               '2020-05-03 01:10:03', '2020-05-03 04:46:37',
+               '2020-05-03 06:47:00', '2020-05-03 23:30:02',
+               '2020-06-03 05:25:03', '2020-06-03 10:28:55',
+               '2020-06-03 17:56:29', '2020-06-03 20:18:11',
+               '2020-06-03 22:26:08', '2020-06-03 23:15:09'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032111376
+Number of Vioaltions : 18
+Location of Violation:
+['Poonam Furniture House, Hosur Road, Electronics City Phase 1', 'Palm Beach Marg, Seawoods, Karave', 'shoppers stop', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Krishnakiri - Kuppam - Madanapalle, Madanapalle, Chittoor', 'Solapur Road, Uruli Kanchan, Pune', 'Rajiv Gandhi Salai, Chennai City Corporation Limits, Kanchipuram', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Thane Belapur Road, Ghansoli, Rabale', 'Opus, 1st Main Road, Chakravarty Layout', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Khandoba Mandir, Akurdi Chowk, Nigdi', 'Chandrapura Junction, Hosur Road, Suryanagar Phase 1', 'Magadi Road, Magadi taluku, Ramanagara district', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-03-03 21:17:04', '2020-04-03 00:56:23',
+               '2020-04-03 00:56:34', '2020-04-03 00:40:45',
+               '2020-04-03 02:01:25', '2020-04-03 06:40:36',
+               '2020-04-03 11:35:04', '2020-04-03 17:10:54',
+               '2020-05-03 00:32:01', '2020-05-03 04:32:48',
+               '2020-05-03 06:17:28', '2020-05-03 09:53:04',
+               '2020-06-03 05:03:01', '2020-06-03 07:52:56',
+               '2020-06-03 14:01:49', '2020-06-03 18:38:08',
+               '2020-06-03 22:15:05', '2020-06-03 22:48:34'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085228127
+Number of Vioaltions : 22
+Location of Violation:
+['SH60, Ahmadnagar, Maharashtra', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Eastern Expressway, Kannamwar Nagar II, Vikhroli East', 'Bangalore - Nelamangala Expressway, Dasanapura, Bangalore Urban', 'Bypass, Pimple Nilakh, Mhalunge', 'Mumbai-Pune Expressway, Malavli, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 16:21:24', '2020-02-03 16:21:35',
+               '2020-02-03 16:21:43', '2020-02-03 16:21:49',
+               '2020-02-03 16:21:54', '2020-02-03 16:22:02',
+               '2020-04-03 01:46:43', '2020-04-03 01:48:43',
+               '2020-04-03 01:49:20', '2020-04-03 01:49:30',
+               '2020-04-03 01:50:41', '2020-05-03 04:32:37',
+               '2020-05-03 04:33:47', '2020-05-03 04:35:28',
+               '2020-05-03 04:35:36', '2020-05-03 04:35:38',
+               '2020-05-03 04:35:46', '2020-06-03 19:44:06',
+               '2020-06-03 19:44:11', '2020-06-03 19:44:16',
+               '2020-06-03 19:44:21', '2020-06-03 19:45:09'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056060222
+Number of Vioaltions : 24
+Location of Violation:
+['Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Mumbai-Pune Expressway, Tungarli, Pune', 'NH965, Pune, Maharashtra', 'SH60, Ralegan Siddhi, Ahmadnagar', 'Thane Belapur Road, Airoli, Greater Bombay', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'NH48, Wakad, Punawale', 'Kalewadi Main Road, Vishal Nagar, Thergaon', 'VR e-Biz Solutions Private Limited, 30/86, 25th Cross Road', 'Megamart, Service Road, Mangamannapalya', 'CMC Byatrayanpura, Bellary Road, Sahakaranagara', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'CBD Belapur ST Bus pickup, Sion Panvel Highway, Artists Village Sector 8A', 'Sant Jnaneshwar Marg, Yerawada, Pune', 'Shil Phata Mahape Road, Shill Phata, Navi Mumbai', 'Deccan College Road, Yerawada, Pune', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Bangalore Mangalore Highway, Byadarahalli, Channarayapattana taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:11:20', '2020-02-03 07:21:49',
+               '2020-02-03 11:07:31', '2020-02-03 12:00:34',
+               '2020-02-03 16:23:56', '2020-03-03 00:44:58',
+               '2020-03-03 03:38:46', '2020-03-03 07:23:06',
+               '2020-03-03 16:19:17', '2020-04-03 00:17:36',
+               '2020-04-03 05:40:42', '2020-04-03 10:19:05',
+               '2020-04-03 14:44:57', '2020-04-03 21:38:18',
+               '2020-05-03 01:03:52', '2020-05-03 04:50:08',
+               '2020-05-03 06:54:12', '2020-06-03 01:45:41',
+               '2020-06-03 06:02:26', '2020-06-03 10:29:56',
+               '2020-06-03 19:10:51', '2020-06-03 20:18:51',
+               '2020-06-03 22:25:38', '2020-06-03 23:23:23'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056823553
+Number of Vioaltions : 26
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Bypass, Infosys Hinjewadi Phase 2, Mhalunge', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'NH965, Upari, Solāpur', 'Mumbai-Pune Expressway, Thugaon, Pune', 'Old Madras Road, Virgonagar, Kadugodi', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'Bhatan Tunnel, Navi Mumbai, Greater Bombay', 'VIP road, Idgah hills, Bhopal', 'Spine Road, Ajmera, Pune', 'SH60, Ranjangaon, Pune', 'Outer Ring Road, Saraswathi Nagar, Kamakshipalya', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'Solapur Road, Yavat, Pune', '4th south main road, Neelankarai, Chennai City Corporation Limits', 'Trisulam Airport, Airport Flyover, Bakhtavachalam Nagar', 'Thane Belapur Road, Ghansoli, Rabale', 'Hosur Road, Anantnagar, Hebbagodi', 'Pallavaram Thuraipakkam Radial Road, Rajiv Nagar, Okkiyam Thuraipakkam', 'Wipro Phase-2, Hinjewadi Road, Infosys Hinjewadi Phase 2', 'Bypass, Ramnagar Colony, Bavdhan', 'SH60, Koregaon, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:08:33', '2020-02-03 00:35:11',
+               '2020-02-03 05:08:53', '2020-02-03 09:49:16',
+               '2020-02-03 11:21:50', '2020-02-03 14:57:00',
+               '2020-02-03 18:35:47', '2020-02-03 23:41:43',
+               '2020-03-03 03:23:51', '2020-03-03 07:16:45',
+               '2020-03-03 13:35:21', '2020-03-03 19:56:27',
+               '2020-04-03 01:56:18', '2020-04-03 06:15:46',
+               '2020-04-03 11:43:34', '2020-04-03 17:05:04',
+               '2020-05-03 01:01:26', '2020-05-03 04:32:27',
+               '2020-05-03 05:48:42', '2020-05-03 08:57:29',
+               '2020-06-03 04:20:13', '2020-06-03 07:39:45',
+               '2020-06-03 13:56:15', '2020-06-03 19:54:20',
+               '2020-06-03 22:10:04', '2020-06-03 22:45:03'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030760935
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'Pipeline Road, HMT Colony, Jalahalli', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Thane Belapur Road, Ghansoli, Rabale', 'S Central Road, Turbhe Village, Turbhe', 'NH52, Jālgaon, Jalgaon', 'Signature Tulips Residential Plots, Huskuru, Hosakote taluk', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Up and Above, NDA Road, Chandani Chauk', '4th south main road, Neelankarai, Chennai City Corporation Limits', 'Nandambakkam, Mount Poonamallee Highway, Labour Colony', 'Bangalore - Nelamangala Expressway, Madanayakanahalli, Bangalore Urban', 'Solapur Road, Hadapsar, Pune', 'Sion Panvel Highway, Artists Village Sector 8A, Nerul', 'SH43, Ambernath, Greater Bombay', 'Pune Nashik Road, Kasarwadi, Pune', 'SH60, Ranjangaon, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:59:52', '2020-02-03 06:43:26',
+               '2020-02-03 10:14:20', '2020-02-03 11:25:31',
+               '2020-02-03 14:35:23', '2020-02-03 22:42:09',
+               '2020-03-03 02:29:37', '2020-03-03 06:16:36',
+               '2020-03-03 11:05:23', '2020-03-03 18:04:27',
+               '2020-04-03 01:52:00', '2020-04-03 06:44:46',
+               '2020-04-03 09:39:45', '2020-04-03 17:04:45',
+               '2020-05-03 00:53:55', '2020-05-03 04:32:27',
+               '2020-05-03 05:36:38', '2020-05-03 07:53:10',
+               '2020-06-03 03:44:33', '2020-06-03 07:21:20',
+               '2020-06-03 12:44:22', '2020-06-03 19:48:27',
+               '2020-06-03 22:11:24', '2020-06-03 22:46:33'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055353065
+Number of Vioaltions : 24
+Location of Violation:
+['SH3, Dasarahalli, Koratagere taluku', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Mumbai-Pune Expressway, Malavli, Pune', 'NH965, Taradgaon, Satara', 'Deccan College Road, Yerawada, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Sangamwadi Road, Somwar Peth, Pune', 'GKVK, Sahakaranagara, Jakkur', 'Spine Road, Ajmera, Pune', 'Kalamboli Circle, Kalamboli, Navi Mumbai', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Bus Lane, Kanaka Nagar, Hebbal', 'Nagar Road, Kharadi, Wagholi', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'Maduravoyal Interchange, Maduravoyal, Ayanambakkam', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:03:36', '2020-02-03 06:34:24',
+               '2020-02-03 11:12:01', '2020-02-03 12:50:39',
+               '2020-02-03 17:59:09', '2020-03-03 01:00:10',
+               '2020-03-03 04:49:37', '2020-03-03 08:17:53',
+               '2020-03-03 16:37:59', '2020-04-03 00:54:11',
+               '2020-04-03 04:55:22', '2020-04-03 07:39:03',
+               '2020-04-03 15:18:25', '2020-04-03 23:05:59',
+               '2020-05-03 03:56:12', '2020-05-03 04:55:18',
+               '2020-05-03 06:55:02', '2020-06-03 00:39:17',
+               '2020-06-03 06:15:43', '2020-06-03 10:31:36',
+               '2020-06-03 19:29:20', '2020-06-03 20:21:49',
+               '2020-06-03 22:33:20', '2020-06-03 23:45:05'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055350426
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055349774
+Number of Vioaltions : 24
+Location of Violation:
+['Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Mumbai-Pune Expressway, Tungarli, Pune', 'NH965, Taradgaon, Satara', 'SH60, Ralegan Siddhi, Ahmadnagar', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Thane Belapur Road, Turbhe Village, Turbhe', 'SRM University, Grand Southern Trunk Road, Guduvancheri', 'Grade Separator, Nigdi, Pune', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Outer Ring Road, Ananda Nagara, Doddanekundi', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Hosur Road, AECS Layout, A block', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Excel Autovista  Maruti Suzuki Showroom, Sion Panvel Highway, Kharghar', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'Chennai Bypass Expressway, Vanagaram, Ayanambakkam', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku']
+Time of Violation :
+DatetimeIndex(['2020-02-03 05:08:34', '2020-02-03 07:27:57',
+               '2020-02-03 11:07:40', '2020-02-03 12:19:52',
+               '2020-02-03 16:24:16', '2020-03-03 00:45:58',
+               '2020-03-03 04:40:46', '2020-03-03 07:32:39',
+               '2020-03-03 16:37:51', '2020-04-03 00:46:40',
+               '2020-04-03 04:54:21', '2020-04-03 07:36:37',
+               '2020-04-03 15:18:35', '2020-04-03 21:19:19',
+               '2020-05-03 01:04:52', '2020-05-03 04:53:48',
+               '2020-05-03 06:55:12', '2020-06-03 00:09:21',
+               '2020-06-03 06:06:52', '2020-06-03 10:30:46',
+               '2020-06-03 19:30:18', '2020-06-03 20:19:31',
+               '2020-06-03 22:28:08', '2020-06-03 23:43:56'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030779034
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Grand Southern Trunk Road, Peerkankaranai, Irumbuliyur', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'State Highway 60, Chas, Ahmadnagar', 'Sangamwadi Road, Somwar Peth, Pune', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Indian Oil, Old Madras Road, Devasandra', 'SH60, Ranjangaon, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Mumbai-Pune Expressway, Nigdi, Ravet', 'Solapur Road, Bhandgaon, Pune', 'Gundur, Bangalore Urban, Karnataka', 'Western Express Highway, Kashigaon, Kashimira', 'Unwined, 436, 5th A Cross', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Bellahalli Cross, SH104, Thanisandra', 'SH60, Koregaon, Pune', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:16:44', '2020-02-03 06:52:59',
+               '2020-02-03 10:39:34', '2020-02-03 11:35:30',
+               '2020-02-03 15:52:32', '2020-03-03 00:16:50',
+               '2020-03-03 02:55:13', '2020-03-03 07:14:49',
+               '2020-03-03 12:13:21', '2020-03-03 22:54:27',
+               '2020-04-03 03:12:40', '2020-04-03 07:21:24',
+               '2020-04-03 11:46:04', '2020-04-03 18:02:40',
+               '2020-05-03 01:02:46', '2020-05-03 04:46:31',
+               '2020-05-03 06:29:26', '2020-05-03 17:42:38',
+               '2020-06-03 05:04:58', '2020-06-03 09:58:24',
+               '2020-06-03 15:58:51', '2020-06-03 20:14:46',
+               '2020-06-03 22:21:07', '2020-06-03 23:13:26'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085229026
+Number of Vioaltions : 22
+Location of Violation:
+['Vashi, Palm Beach Marg, Sector 17', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Kalewadi Main Road, Moraya Gosavi Raj Park, Thergaon', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Eastern Expressway, Kannamwar Nagar II, Vikhroli East', 'Outer Ring Road, Vijaya Bank Colony, Kasturi Nagar', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay']
+Time of Violation :
+DatetimeIndex(['2020-03-03 00:43:01', '2020-03-03 00:43:10',
+               '2020-03-03 00:43:31', '2020-03-03 00:43:41',
+               '2020-03-03 00:43:50', '2020-04-03 05:05:40',
+               '2020-04-03 05:05:50', '2020-04-03 05:06:00',
+               '2020-04-03 05:06:10', '2020-04-03 05:07:00',
+               '2020-04-03 05:39:45', '2020-05-03 06:29:17',
+               '2020-05-03 06:32:47', '2020-05-03 06:38:43',
+               '2020-05-03 06:32:57', '2020-05-03 06:33:07',
+               '2020-06-03 20:23:09', '2020-06-03 20:23:19',
+               '2020-06-03 20:23:29', '2020-06-03 20:24:31',
+               '2020-06-03 20:24:42', '2020-06-03 20:24:51'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032142066
+Number of Vioaltions : 16
+Location of Violation:
+['MGR Nagar Main St, Madambakkam, Balaji Nagar', 'Mumbai-Pune Expressway, Malavli, Pune', 'State Highway 60, Chas, Ahmadnagar', 'Kodigehalli Gate, Sahakaranagara, Jakkur', 'Chimmasandra Cross, Old Madras Road, Virgonagar', 'vaijapur rod, Chapaner, Aurangabad', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Anantapur - Krishnagiri Road, Tannakallu, Anantapur', 'Western Express Highway, Borivali East, Mira-Bhayander', 'Eastern Expressway, Thane, Greater Bombay', 'Thane-Belapur South, Turbhe Village, Turbhe', 'SH60, Pune, Maharashtra', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Ale, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 06:41:08', '2020-02-03 11:17:01',
+               '2020-02-03 15:52:22', '2020-03-03 01:07:52',
+               '2020-03-03 07:17:40', '2020-03-03 17:06:08',
+               '2020-04-03 03:12:20', '2020-04-03 08:05:33',
+               '2020-04-03 17:16:01', '2020-05-03 01:26:01',
+               '2020-05-03 06:28:47', '2020-06-03 02:35:41',
+               '2020-06-03 09:47:40', '2020-06-03 20:03:12',
+               '2020-06-03 22:20:57', '2020-06-03 23:57:26'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056987309
+Number of Vioaltions : 24
+Location of Violation:
+['Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Sangamwadi Road, Somwar Peth, Pune', 'SH60, Ahmadnagar, Maharashtra', 'Thane-Belapur South, Turbhe Village, Turbhe', 'NH48, Wakad, Mhalunge', 'More Mega Store, 14, ORR Service Road', 'Palm Beach Road South, Seawoods, Karave', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'SH82, Nelavanki, Srinivasapura taluku', 'Kattumnallur Gate, Old Madras Road, Kattamanallur', 'Bellary Road, Sahakaranagara, Jakkur', 'Hebbal, Srinagar - Kanyakumari Highway, Kanaka Nagar', 'Landmark Hotel, Sion Panvel Highway, Kharghar', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'service Road', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:12:20', '2020-02-03 07:22:17',
+               '2020-02-03 10:49:59', '2020-02-03 12:14:07',
+               '2020-02-03 16:30:47', '2020-03-03 00:45:39',
+               '2020-03-03 04:34:56', '2020-03-03 07:23:54',
+               '2020-03-03 14:55:04', '2020-04-03 00:25:23',
+               '2020-04-03 04:53:32', '2020-04-03 07:22:24',
+               '2020-04-03 14:23:26', '2020-04-03 21:40:35',
+               '2020-05-03 01:05:22', '2020-05-03 04:50:48',
+               '2020-05-03 06:55:32', '2020-06-03 00:07:12',
+               '2020-06-03 06:06:42', '2020-06-03 10:30:16',
+               '2020-06-03 19:12:21', '2020-06-03 20:19:21',
+               '2020-06-03 22:25:28', '2020-06-03 23:44:45'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353082689636
+Number of Vioaltions : 1
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 11:12:20'], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032113604
+Number of Vioaltions : 13
+Location of Violation:
+['SH60, Ranjangaon, Pune', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'vaijapur rod, Chapaner, Aurangabad', 'Sion Panvel Highway, Parsik Hill, Belapur CBD', 'SH82, Konganahalli, Chintamani taluk', 'KR Puram Railway Station, Outer Ring Road, Darga Mohalla', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Sion Panvel Highway, Parsik Hill, Nerul', 'ESi Hospital, Old Madras Road, Devasandra', 'Mumbai-Pune Expressway, Malavli, Pune', 'Soluru, Bangalore Mangalore Highway, Narasandra', 'NH60, Ale, Pune']
+Time of Violation :
+DatetimeIndex(['2020-03-03 13:35:44', '2020-03-03 13:42:16',
+               '2020-03-03 17:06:03', '2020-04-03 04:48:11',
+               '2020-04-03 08:02:32', '2020-04-03 22:36:18',
+               '2020-05-03 01:08:08', '2020-05-03 06:25:55',
+               '2020-06-03 02:42:12', '2020-06-03 08:20:00',
+               '2020-06-03 19:37:47', '2020-06-03 22:18:36',
+               '2020-06-03 23:57:56'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030767575
+Number of Vioaltions : 18
+Location of Violation:
+['Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Thugaon, Pune', 'Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'Sri Shubha Sapthagiri Convention Hall, Old Madras Road, Virgonagar', 'Thane Belapur Road, Airoli, Greater Bombay', 'Hosur Road, AECS Layout, A block', 'NH52, Jālgaon, Jalgaon', 'Rampura, Rampura Main Road, K. Channasandra', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'SSD home...Hosur Road., Service Road, AECS Layout', 'Bellary Road, Akkupete, Devanahalli taluk', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Madap Tunnel, Khalapur, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH50, Manchar, Pune']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:03:12', '2020-02-03 05:07:04',
+               '2020-02-03 10:13:41', '2020-02-03 11:23:01',
+               '2020-02-03 14:33:33', '2020-02-03 22:41:54',
+               '2020-03-03 02:25:46', '2020-03-03 06:26:14',
+               '2020-03-03 11:05:34', '2020-03-03 17:45:04',
+               '2020-04-03 01:51:50', '2020-04-03 06:03:54',
+               '2020-04-03 08:57:09', '2020-06-03 19:47:50',
+               '2020-06-03 19:48:00', '2020-06-03 20:18:01',
+               '2020-06-03 22:23:57', '2020-06-03 23:13:42'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032111202
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612086995599
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'Mumbai Hwy, Solapur, Solāpur', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Ghodegaon, Ahmadnagar', 'HFB, Varthur Road, Ashwath Nagar', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Hosur Road, AECS Layout, A block', 'SH24, Jālgaon, Jalgaon', 'SH104, Thanisandra, Bellahalli', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Hosur Road, Bommasandra, Hebbagodi', 'SH60, Pune, Maharashtra', '4th south main road, Neelankarai, Chennai City Corporation Limits', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'BPCL;MGL, Thane Belapur Road, Sector 19', 'Huskur Gate, Service Road, Electronics City Phase 2 (East)', 'Dehu Phata-Mosi, Alandi, Pune', 'Pune Nashik Road, Kasarwadi, Pune', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'NH60, Peth, Pune']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:58:23', '2020-02-03 05:55:57',
+               '2020-02-03 10:16:48', '2020-02-03 11:26:40',
+               '2020-02-03 14:42:43', '2020-03-03 00:07:38',
+               '2020-03-03 02:48:06', '2020-03-03 06:27:05',
+               '2020-03-03 11:22:52', '2020-03-03 18:47:48',
+               '2020-04-03 01:53:04', '2020-04-03 06:11:04',
+               '2020-04-03 10:00:14', '2020-04-03 17:04:54',
+               '2020-05-03 00:28:02', '2020-05-03 04:33:48',
+               '2020-05-03 05:47:52', '2020-05-03 08:53:50',
+               '2020-06-03 04:12:13', '2020-06-03 07:21:55',
+               '2020-06-03 13:59:09', '2020-06-03 20:04:55',
+               '2020-06-03 22:10:44', '2020-06-03 23:11:32'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612088548354
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612087235417
+Number of Vioaltions : 24
+Location of Violation:
+['SH33, Jampenahalli, Koratagere taluku', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Mumbai-Pune Expressway, Malavli, Pune', 'Inner Ring Road, AGS Officers Colony, Ullagaram', 'Pallavaram Thuraipakkam Radial Road, Kuberan Nagar, Narayanapuram', 'Kodigehalli Gate, Sahakaranagara, Jakkur', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'I T P L Main Road, Kundalahalli Colony, AECS Layout', 'vaijapur rod, Chapaner, Aurangabad', 'Bellary Road, Sahakaranagara, Jakkur', 'NH71, Chittoor, Andhra Pradesh', 'Solapur Road, Hadapsar, Pune', 'Fashion Quotient Unisex Saloon And Spa, 14, Outer Ring Road', 'Grand Southern Trunk Road, Ram Nagar, Pazhavanthangal', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'Watermelon stalls, NH48, New Panvel', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Shil Phata Mahape Road, Shill Phata, Navi Mumbai', 'Trident Hyundai, Outer Ring Road, Darga Mohalla', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Mulund-Airoli Bridge, Tatanagar, Mulund East']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:29:39', '2020-02-03 07:28:36',
+               '2020-02-03 11:15:50', '2020-02-03 13:06:47',
+               '2020-02-03 17:42:55', '2020-03-03 01:06:52',
+               '2020-03-03 05:13:43', '2020-03-03 08:14:31',
+               '2020-03-03 17:08:55', '2020-04-03 00:58:41',
+               '2020-04-03 05:03:46', '2020-04-03 07:51:58',
+               '2020-04-03 23:32:01', '2020-05-03 00:57:20',
+               '2020-05-03 01:06:17', '2020-05-03 04:57:38',
+               '2020-05-03 07:01:37', '2020-06-03 01:45:32',
+               '2020-06-03 07:02:00', '2020-06-03 10:36:07',
+               '2020-06-03 19:38:47', '2020-06-03 20:26:21',
+               '2020-06-03 22:33:50', '2020-06-03 23:44:55'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085229505
+Number of Vioaltions : 12
+Location of Violation:
+['SH60, Jehur, Ahmadnagar', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Keys, Service Road, AECS Layout', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Thane Belapur Road, Ghansoli, Rabale', 'Thane Belapur Road, Turbhe Village, Turbhe', 'Thane Belapur Road, Sanpada, Shiravane']
+Time of Violation :
+DatetimeIndex(['2020-02-03 15:02:03', '2020-02-03 15:02:13',
+               '2020-02-03 15:11:36', '2020-02-03 15:12:46',
+               '2020-02-03 15:14:07', '2020-02-03 15:17:43',
+               '2020-04-03 04:32:51', '2020-04-03 04:33:01',
+               '2020-04-03 04:33:11', '2020-04-03 04:34:22',
+               '2020-04-03 04:43:21', '2020-04-03 04:43:32'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085240924
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085234828
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353080771774
+Number of Vioaltions : 1
+Location of Violation:
+['Sion Panvel Highway, Kalamboli, Navi Mumbai']
+Time of Violation :
+DatetimeIndex(['2020-04-03 04:53:41'], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353082657377
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085235668
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056058366
+Number of Vioaltions : 28
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'NH65, Solāpur, Solapur', 'Bypass, Shivane, Pune', 'Outer Ring Road, Tatanagar, Bhoopasandra', 'Shil Phata Mahape Road, Shill Phata, Navi Mumbai', 'Kalyan - Shil Road, Nilaje, Shill Gaon', 'Thane Belapur Road, Ghansoli, Rabale', 'NH71, Chittoor, Andhra Pradesh', 'Outer Ring Road, Laggere, Bengaluru', 'Fiat Showroom, 4th Main Road, Amarjyothi Layout', 'Grand Southern Trunk Road, East Tambaram, Tambaram', 'Nagar Road, Kharadi, Pune', 'Vascon Almonte, Kharadi Bypass, Kharadi', 'Westerly Diversion, Ravet, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:21:29', '2020-02-03 00:21:39',
+               '2020-02-03 00:21:48', '2020-02-03 00:29:17',
+               '2020-02-03 00:31:12', '2020-02-03 00:32:11',
+               '2020-03-03 01:36:18', '2020-03-03 01:39:27',
+               '2020-03-03 01:39:38', '2020-03-03 01:39:47',
+               '2020-03-03 01:49:00', '2020-04-03 06:20:11',
+               '2020-04-03 06:20:08', '2020-04-03 06:20:26',
+               '2020-04-03 06:22:37', '2020-04-03 06:35:43',
+               '2020-04-03 06:37:18', '2020-05-03 07:26:39',
+               '2020-05-03 07:26:44', '2020-05-03 07:30:13',
+               '2020-05-03 07:32:14', '2020-05-03 07:32:24',
+               '2020-06-03 22:09:34', '2020-06-03 22:09:24',
+               '2020-06-03 22:13:45', '2020-06-03 22:13:55',
+               '2020-06-03 22:14:25', '2020-06-03 22:14:35'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030792540
+Number of Vioaltions : 23
+Location of Violation:
+['SH33, Obalapura, Tumkur taluk', 'service Road', 'Mumbai-Pune Expressway, Malavli, Pune', 'PEPPER, Rajiv Gandhi Salai, Chennai City Corporation Limits', 'Mumbai Agra National Highway, Dombivli West, Kalyan-Dombivili', 'Gandhi Mandapam Road, Varadapuram, Kotturpuram', 'Hosur Road, Suryanagar Phase 1, Chandapura', 'Deccan College Road, Yerawada, Pune', 'vaijapur rod, Chapaner, Aurangabad', 'Palm Beach Marg, Seawoods, Karave', 'Kalewadi Main Road, Vishal Nagar, Thergaon', 'Bellary Road, Bhuvanahalli, Devanahalli taluk', 'SH99, Gaunipalli, Srinivasapura taluku', 'Bellary Road, Sahakaranagara, Jakkur', 'Nagar Road, Kharadi, Wagholi', 'Nandini -Tea & Milk, Infantry Road, Shantala Nagar', 'HP petrol bank, Bellary Road, Sahakaranagara', 'Sterling School, Pune Nashik Road, Bhosari', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'NH48, Wakad, Punawale', 'NH75, ಚೊಟ್ಟನಹಳ್ಳಿ, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:39:30', '2020-02-03 09:44:52',
+               '2020-02-03 11:18:30', '2020-02-03 13:40:31',
+               '2020-03-03 00:04:23', '2020-03-03 01:12:37',
+               '2020-03-03 05:53:03', '2020-03-03 08:36:33',
+               '2020-03-03 17:06:18', '2020-04-03 00:56:44',
+               '2020-04-03 05:40:55', '2020-04-03 08:55:00',
+               '2020-04-03 16:32:26', '2020-05-03 00:45:33',
+               '2020-05-03 03:57:54', '2020-05-03 05:22:29',
+               '2020-05-03 07:19:01', '2020-06-03 02:52:29',
+               '2020-06-03 07:03:51', '2020-06-03 10:50:31',
+               '2020-06-03 19:43:17', '2020-06-03 21:17:27',
+               '2020-06-03 22:39:31'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056078182
+Number of Vioaltions : 24
+Location of Violation:
+['Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Pune, Maharashtra', 'Hosur Road, Electronics City Phase 1, Konappana Agrahara', 'Empire Estate Flyover, Moraya Gosavi Raj Park, Pimpri-Chinchwad', 'Thane-Belapur South, Turbhe Village, Turbhe', 'NH48, Wakad, Mhalunge', 'Grade Separator, Nigdi, Pune', 'Palm Beach Road South, Seawoods, Karave', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'SH82, Nelavanki, Srinivasapura taluku', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'State Bank of India, Outer Ring Road, GNR Gardens', 'Hebbal, Srinagar - Kanyakumari Highway, Kanaka Nagar', 'Landmark Hotel, Sion Panvel Highway, Kharghar', 'Sant Jnaneshwar Marg, Yerawada, Pune', 'service Road', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Pune Nashik Road, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:12:10', '2020-02-03 07:22:37',
+               '2020-02-03 10:56:11', '2020-02-03 12:04:16',
+               '2020-02-03 16:24:13', '2020-03-03 00:45:48',
+               '2020-03-03 04:35:07', '2020-03-03 07:23:45',
+               '2020-03-03 16:38:01', '2020-04-03 00:25:14',
+               '2020-04-03 04:53:51', '2020-04-03 07:22:09',
+               '2020-04-03 13:45:46', '2020-04-03 21:31:59',
+               '2020-05-03 01:05:12', '2020-05-03 04:51:08',
+               '2020-05-03 06:54:22', '2020-06-03 00:07:20',
+               '2020-06-03 06:16:23', '2020-06-03 10:30:26',
+               '2020-06-03 19:29:30', '2020-06-03 20:19:01',
+               '2020-06-03 22:24:07', '2020-06-03 23:31:50'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030778572
+Number of Vioaltions : 24
+Location of Violation:
+['SH3, Dasarahalli, Koratagere taluku', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Mumbai-Pune Expressway, Malavli, Pune', 'NH965, Taradgaon, Satara', 'SH60, Koregaon, Pune', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Sangamwadi Road, Somwar Peth, Pune', 'vaijapur rod, Chapaner, Aurangabad', 'Bellary Road, Sahakaranagara, Jakkur', 'NH48, New Panvel, Panvel', 'Solapur Road, Hadapsar, Pune', 'SH82, Kallahalli, Chintamani taluk', 'Byatarayanapura, Arkavathy Layout, Jakkur', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'VIT Cross Devanahalli Road, Bellary Road, Vidyanagar', 'Kalyan - Shil Road, Nilaje, Shill Gaon', 'Sant Jnaneshwar Marg, Bhosari, Pune', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'NH75, Mallaghatta, Kunigal taluk', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:02:06', '2020-02-03 07:28:17',
+               '2020-02-03 11:14:40', '2020-02-03 12:50:49',
+               '2020-02-03 17:12:43', '2020-03-03 01:02:10',
+               '2020-03-03 05:12:03', '2020-03-03 08:04:24',
+               '2020-03-03 17:05:53', '2020-04-03 00:57:00',
+               '2020-04-03 04:56:11', '2020-04-03 07:50:48',
+               '2020-04-03 15:47:21', '2020-04-03 23:05:55',
+               '2020-05-03 01:21:03', '2020-05-03 04:55:18',
+               '2020-05-03 07:00:33', '2020-06-03 01:41:34',
+               '2020-06-03 06:43:43', '2020-06-03 10:32:37',
+               '2020-06-03 19:37:09', '2020-06-03 20:22:39',
+               '2020-06-03 22:34:50', '2020-06-03 23:47:47'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612087109471
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055314885
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'Pune Sholapur Road, Solapur, Solāpur', 'NH965, Jejuri, Pune', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Ghodegaon, Ahmadnagar', 'Sri Shubha Sapthagiri Convention Hall, Old Madras Road, Virgonagar', 'Sion Panvel Highway, Sanpada, Shiravane', 'Outer Ring Road, ITI Layout, Nagarbhavi', 'SH24, Jālgaon, Jalgaon', 'Bellary Road, Tatanagar, Arkavathy Layout', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Hosur Road, Suryanagar Phase 1, Chandapura', 'Nigdi Exit, Nigdi, Ravet', 'Sangamwadi Road, Mangalwar Peth, Pune', 'Mulund-Airoli Bridge, Airoli, Diva Koliwada', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Hosur Road, Anantnagar, Hebbagodi', 'Pallavaram Thuraipakkam Radial Road, Rajiv Nagar, Okkiyam Thuraipakkam', 'Nagar Road, Kharadi, Wagholi', 'Bypass, Ramnagar Colony, Bavdhan', 'SH60, Pune, Maharashtra', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:57:02', '2020-02-03 06:15:55',
+               '2020-02-03 10:17:08', '2020-02-03 11:33:01',
+               '2020-02-03 14:42:13', '2020-02-03 22:42:55',
+               '2020-03-03 02:36:46', '2020-03-03 06:30:22',
+               '2020-03-03 11:23:01', '2020-03-03 22:52:47',
+               '2020-04-03 01:56:04', '2020-04-03 06:12:25',
+               '2020-04-03 09:56:17', '2020-04-03 17:05:12',
+               '2020-05-03 00:27:41', '2020-05-03 04:30:57',
+               '2020-05-03 05:48:32', '2020-05-03 08:57:19',
+               '2020-06-03 03:52:38', '2020-06-03 07:39:51',
+               '2020-06-03 13:49:14', '2020-06-03 19:49:39',
+               '2020-06-03 22:10:14', '2020-06-03 22:44:53'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032195643
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032137595
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353080764654
+Number of Vioaltions : 1
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 11:26:30'], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056914139
+Number of Vioaltions : 9
+Location of Violation:
+['SRS, Tumkur Road, Peenya 2nd Stage', 'Grand Southern Trunk Road, Vandalur, Varadarajapuram', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Don Bosco High School, Don Bosco Road, Ward 14', 'OMBR Outer Ring Road Park, Banaswadi Main Road, Vijaya Bank Colony', 'SH35, Kattamanallur, Bangalore Urban']
+Time of Violation :
+DatetimeIndex(['2020-02-03 07:32:24', '2020-02-03 07:43:14',
+               '2020-02-03 07:44:01', '2020-02-03 07:44:21',
+               '2020-02-03 07:44:31', '2020-02-03 07:44:41',
+               '2020-02-03 08:17:30', '2020-02-03 08:22:45',
+               '2020-02-03 08:25:20'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030809427
+Number of Vioaltions : 24
+Location of Violation:
+['SH60, Supe, Ahmadnagar', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Ahmadnagar Aurangabad Highway, Ghodegaon, Ahmadnagar', 'Sri Shubha Sapthagiri Convention Hall, Old Madras Road, Virgonagar', 'Thane Belapur Road, Ghansoli, Rabale', 'Action One Shop, 78/2, Hosur Road', 'NH52, Jālgaon, Jalgaon', 'Vandalur, Grand Southern Trunk Road, Vandalur', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Hosur Road, Bommasandra, Hebbagodi', 'NH48, Wakad, Punawale', 'Pillaiyar Koil Street, Metukuppam, Okkiyam Thuraipakkam', 'Wesley Church, Paul Wells Road, Labour Colony', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Skoda Show Room, Service Road, AECS Layout', 'Chennai Bypass Expressway, Vanagaram, Ayanambakkam', 'Sion Panvel Highway, Sanpada, Shiravane', 'Pune Nashik Road, Kasarwadi, Pune', 'SH60, Ranjangaon, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:05:42', '2020-02-03 05:06:54',
+               '2020-02-03 10:15:18', '2020-02-03 11:25:41',
+               '2020-02-03 14:40:43', '2020-02-03 22:42:04',
+               '2020-03-03 02:30:07', '2020-03-03 06:24:31',
+               '2020-03-03 11:05:43', '2020-03-03 18:37:32',
+               '2020-04-03 01:59:45', '2020-04-03 06:10:34',
+               '2020-04-03 09:47:18', '2020-04-03 17:04:25',
+               '2020-05-03 00:54:36', '2020-05-03 04:30:27',
+               '2020-05-03 05:41:51', '2020-05-03 09:51:23',
+               '2020-06-03 03:36:21', '2020-06-03 07:21:30',
+               '2020-06-03 12:44:27', '2020-06-03 19:48:33',
+               '2020-06-03 22:14:45', '2020-06-03 22:47:03'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612087227729
+Number of Vioaltions : 24
+Location of Violation:
+['Croma, Outer Ring Road, GNR Gardens', 'Nagar Road, Kharadi, Wagholi', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Thane Ghodbunder Road, Majiwada, Thane', 'S Central Road, Turbhe Village, Turbhe', 'NH52, Jālgaon, Jalgaon', 'Budigere Road, Handrahalli, Devanahalli taluk', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'SH96, Kumbiganahalli, Sidlaghatta taluk', 'Mount Poonamallee Highway, Sri Laxmi Nagar, Ramapuram', 'Bangalore - Nelamangala Expressway, Kirloskar Layout, Peenya', 'Solapur Road, Hadapsar, Pune', 'Outer Ring Road, P R Layout, Marathahalli', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Westerly Diversion, Ravet, Pune', 'SH60, Ranjangaon, Pune', 'Mumbai-Pune Expressway, Malavli, Pune', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'NH75, ಚೊಟ್ಟನಹಳ್ಳಿ, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:08:57', '2020-02-03 05:29:36',
+               '2020-02-03 10:14:38', '2020-02-03 11:23:41',
+               '2020-02-03 14:35:43', '2020-02-03 19:13:09',
+               '2020-03-03 02:26:53', '2020-03-03 06:16:57',
+               '2020-03-03 11:03:14', '2020-03-03 17:58:26',
+               '2020-04-03 01:43:43', '2020-04-03 06:04:15',
+               '2020-04-03 08:24:55', '2020-04-03 16:51:24',
+               '2020-05-03 00:52:02', '2020-05-03 04:28:56',
+               '2020-05-03 05:12:27', '2020-05-03 07:34:42',
+               '2020-06-03 03:07:01', '2020-06-03 07:21:16',
+               '2020-06-03 15:58:42', '2020-06-03 19:45:38',
+               '2020-06-03 21:25:03', '2020-06-03 22:40:52'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030786120
+Number of Vioaltions : 24
+Location of Violation:
+['SH60, Ralegan Siddhi, Ahmadnagar', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'NH965, Pimprud, Satara', 'SH60, Ahmadnagar, Maharashtra', 'Palm Beach Road South, Sector 17, Sanpada', 'Thane Belapur Road, Sector 15, Kopar Khairane', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'Srinagar - Kanyakumari Highway, Kanaka Nagar, Hebbal', 'Bellary Road, Sahakaranagara, Jakkur', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'SH82, Nelavanki, Srinivasapura taluku', 'Hosur Road, Suryanagar Phase 1, Chandapura', 'Solapur Road, Uruli Kanchan, Pune', 'Hebbal, Srinagar - Kanyakumari Highway, Kanaka Nagar', 'Pragati Bulding co.op.soci., Eastern Express Highway, Sai Baba Nagar', 'Byatarayanapura, Arkavathy Layout, Jakkur', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Solapur Road, Hadapsar, Pune', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:55:52', '2020-02-03 07:21:21',
+               '2020-02-03 10:48:23', '2020-02-03 11:47:26',
+               '2020-02-03 16:18:15', '2020-03-03 00:44:31',
+               '2020-03-03 03:34:16', '2020-03-03 07:21:56',
+               '2020-03-03 14:21:02', '2020-04-03 00:41:47',
+               '2020-04-03 04:52:02', '2020-04-03 07:23:39',
+               '2020-04-03 13:36:50', '2020-04-03 20:07:20',
+               '2020-05-03 01:05:42', '2020-05-03 04:48:47',
+               '2020-05-03 06:47:17', '2020-06-03 00:37:49',
+               '2020-06-03 05:25:13', '2020-06-03 10:30:56',
+               '2020-06-03 19:13:41', '2020-06-03 20:20:01',
+               '2020-06-03 22:27:18', '2020-06-03 23:44:05'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032005214
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032012418
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032023118
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030585100
+Number of Vioaltions : 16
+Location of Violation:
+['Pune Sholapur Road, Solapur, Solāpur', 'NH965, Pune, Maharashtra', 'NH965, Pimprud, Satara', 'Thane Belapur Road, Turbhe Village, Turbhe', 'NH52, Jālgaon, Jalgaon', 'Srinagar - Kanyakumari Highway, Kanaka Nagar, Hebbal', 'Hosur Road, Bommasandra, Hebbagodi', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Thane Belapur Road, Airoli, Greater Bombay', 'Excel Autovista  Maruti Suzuki Showroom, Sion Panvel Highway, Kharghar', 'Grand Southern Trunk Road, Vandalur, Varadarajapuram', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Westerly Diversion, Ravet, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Pune Nashik Road, Chakan, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 01:14:27', '2020-02-03 10:14:01',
+               '2020-02-03 11:48:32', '2020-02-03 18:50:42',
+               '2020-03-03 04:40:57', '2020-03-03 11:04:53',
+               '2020-04-03 00:39:27', '2020-04-03 06:10:24',
+               '2020-04-03 15:16:55', '2020-05-03 00:24:11',
+               '2020-05-03 04:54:08', '2020-05-03 07:47:03',
+               '2020-06-03 06:11:08', '2020-06-03 12:44:08',
+               '2020-06-03 20:20:41', '2020-06-03 22:45:01'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030787425
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030773920
+Number of Vioaltions : 24
+Location of Violation:
+['Croma, Outer Ring Road, GNR Gardens', 'Elphinstone Road, Mandalay Lines, Khadki', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Ghodegaon, Ahmadnagar', 'Sri Shubha Sapthagiri Convention Hall, Old Madras Road, Virgonagar', 'Thane Belapur Road, Ghansoli, Rabale', 'Hosur Road, AECS Layout, A block', 'SH24, Jālgaon, Jalgaon', 'Vandalur, Grand Southern Trunk Road, Vandalur', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'SH82, Nelavanki, Srinivasapura taluku', 'Solapur Road, Uruli Kanchan, Pune', 'Indian Oil, Amruth Nagar Road, Arkavathy Layout', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Bellary Road, Sahakaranagara, Jakkur', 'Chennai Bypass Expressway, Vanagaram, Ayanambakkam', 'Mumbai Delhi Highway, Evershine Nagari, Nalasopara Phata', 'HAL flight Operations & Flight Test Centre, Old Airport Road, Ramesh Nagar', 'Chandrapura Junction, Hosur Road, Suryanagar Phase 1', 'Mumbai-Pune Expressway, Khopoli, Kulāba', 'Bangalore - Mangalore Highway, Mahadevapura, Nelamangala taluk', 'Bangalore Mangalore Highway, Tippuru, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:09:37', '2020-02-03 05:41:45',
+               '2020-02-03 10:15:28', '2020-02-03 11:26:11',
+               '2020-02-03 14:41:53', '2020-02-03 22:42:14',
+               '2020-03-03 02:30:57', '2020-03-03 06:25:54',
+               '2020-03-03 11:22:21', '2020-03-03 18:37:52',
+               '2020-04-03 02:02:15', '2020-04-03 06:40:51',
+               '2020-04-03 11:34:53', '2020-04-03 17:10:55',
+               '2020-05-03 00:31:51', '2020-05-03 04:32:37',
+               '2020-05-03 05:59:59', '2020-05-03 09:51:18',
+               '2020-06-03 04:52:31', '2020-06-03 07:46:52',
+               '2020-06-03 14:01:19', '2020-06-03 20:01:57',
+               '2020-06-03 22:15:25', '2020-06-03 22:48:44'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612087008830
+Number of Vioaltions : 24
+Location of Violation:
+['Metro Motors, Tumkur Road, Peenya 2nd Stage', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Malavli, Pune', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'SH50;SH60, Ahmadnagar, Maharashtra', 'Sion Panvel Highway, Parsik Hill, Nerul', 'Kalamboli Circle, Kalamboli, Navi Mumbai', 'BRTS, Ward 16, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Palm Beach Road South, Seawoods, Karave', 'NH71, Chittoor, Andhra Pradesh', 'Brunchilly, 39/5, Nekkundi Chinnappareddy Road', 'Hosakote Chinthamani Road, Nandagudi, Hosakote taluk', 'Asha Handicrafts Association, R R Industrial Estate, Western Express Highway', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Vasai Road, Evershine Nagari, Vasai-Virar', 'Hebbal Flyover, Kanaka Nagar, Hebbal', 'Chennai Bypass Expressway, Nolambur, Ayanambakkam', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:55:36', '2020-02-03 10:16:58',
+               '2020-02-03 11:15:40', '2020-02-03 12:54:40',
+               '2020-02-03 16:26:32', '2020-03-03 00:55:00',
+               '2020-03-03 04:52:36', '2020-03-03 07:13:30',
+               '2020-03-03 16:34:22', '2020-04-03 00:25:44',
+               '2020-04-03 05:51:25', '2020-04-03 07:39:48',
+               '2020-04-03 15:17:45', '2020-04-03 22:33:27',
+               '2020-05-03 01:19:13', '2020-05-03 04:50:03',
+               '2020-05-03 07:07:05', '2020-06-03 00:38:19',
+               '2020-06-03 06:15:53', '2020-06-03 10:32:06',
+               '2020-06-03 19:13:31', '2020-06-03 20:21:59',
+               '2020-06-03 22:28:39', '2020-06-03 23:47:00'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056080071
+Number of Vioaltions : 27
+Location of Violation:
+['Mumbai-Pune Expressway, Malavli, Pune', 'NH48, Dodderi, Nelamangala taluk', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Mumbai-Pune Expressway, Talegaon, Pune', 'SH60, Supe, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Nagar Road, Kharadi, Wagholi', 'Sant Jnaneshwar Marg, Bhosari, Pune', 'Bruice Bar & Restaurant, Old Madras Road, Devasandra', 'Old Madras Road, Virgonagar, Kadugodi', 'Sangamwadi Road, Mangalwar Peth, Pune', 'Pallavaram Thuraipakkam Radial Road, Nemilichery, Heritage Jayendra Nagar', 'Pune Nashik Road, Bhosari, Pune', 'Indiacom Limited, Nagar Road, Suyojan Society', 'Budigere Road, Handrahalli, Devanahalli taluk', 'SH35, Kadugodi, Kannamangala', 'Bella Halli, SH104, Thanisandra', 'Force Motors, Service Road, AECS Layout', 'Krishnarajapuram Hanging Bridge, Darga Mohalla, B. Narayanapura', 'Sangamwadi Road, Somwar Peth, Pune', 'Pune Nashik Road, Chakan, Pune', 'Link Road 1, New Market, Bhopal', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'SH60, Koregaon, Pune', 'Hosur Road, Electronics City Phase 1, Konappana Agrahara']
+Time of Violation :
+DatetimeIndex(['2020-01-03 23:56:52', '2020-02-03 07:00:11',
+               '2020-02-03 10:17:00', '2020-02-03 11:27:21',
+               '2020-02-03 11:38:50', '2020-02-03 16:04:51',
+               '2020-03-03 00:43:38', '2020-03-03 01:31:19',
+               '2020-03-03 05:49:56', '2020-04-03 07:23:05',
+               '2020-04-03 07:26:06', '2020-05-03 08:03:54',
+               '2020-05-03 08:04:47', '2020-05-03 08:22:16',
+               '2020-05-03 08:30:26', '2020-05-03 08:30:09',
+               '2020-05-03 09:53:00', '2020-05-03 10:17:45',
+               '2020-05-03 12:10:26', '2020-05-03 12:11:26',
+               '2020-05-03 12:27:53', '2020-05-03 19:28:11',
+               '2020-05-03 21:20:08', '2020-06-03 01:48:59',
+               '2020-06-03 05:06:12', '2020-06-03 09:58:34',
+               '2020-06-03 15:07:37'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353082689768
+Number of Vioaltions : 1
+Location of Violation:
+['Brunchilly, 39/5, Nekkundi Chinnappareddy Road']
+Time of Violation :
+DatetimeIndex(['2020-04-03 07:39:38'], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728039171530
+Number of Vioaltions : 24
+Location of Violation:
+['SH50;SH60, Ahmadnagar, Maharashtra', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'NH965, Pune, Maharashtra', 'Mumbai-Pune Expressway, Thugaon, Pune', 'Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'Thane Belapur Road, Ghansoli, Rabale', 'Outer Ring Road, Kanaka Nagar, Nagavara', 'Grade Separator, Chinchwad, Pune', 'Bellahalli Cross, SH104, Thanisandra', 'Rajiv Gandhi Salai, Chennai City Corporation Limits, Kanchipuram', 'Bommanahalli, Hosur Road, Mangamannapalya', 'SH96, Doddatattamangala, Devanahalli taluk', 'SSD home...Hosur Road., Service Road, AECS Layout', 'Anantapur, Anantapur district, Andhra Pradesh', 'Bangalore - Nelamangala Expressway, Peenya 2nd Stage, Peenya', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'NH48 Bypass, Nigdi, Ravet', 'Pune Nashik Road, Bhosari, Pune', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Mumbai-Pune Expressway, Malavli, Pune', 'Mumbai-Pune Expressway, New Panvel, Navi Mumbai', 'NH75, Mallaghatta, Kunigal taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:56:02', '2020-02-03 05:07:14',
+               '2020-02-03 10:13:51', '2020-02-03 11:22:40',
+               '2020-02-03 14:31:33', '2020-02-03 18:50:12',
+               '2020-03-03 02:29:27', '2020-03-03 05:44:20',
+               '2020-03-03 10:03:38', '2020-03-03 17:40:45',
+               '2020-04-03 01:42:53', '2020-04-03 06:01:04',
+               '2020-04-03 08:57:24', '2020-04-03 16:17:11',
+               '2020-05-03 00:41:58', '2020-05-03 04:24:05',
+               '2020-05-03 04:53:44', '2020-05-03 07:22:26',
+               '2020-06-03 02:55:10', '2020-06-03 07:03:41',
+               '2020-06-03 10:50:41', '2020-06-03 19:40:57',
+               '2020-06-03 20:30:50', '2020-06-03 22:36:51'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030758665
+Number of Vioaltions : 15
+Location of Violation:
+['Bellary Road, Sahakaranagara, Jakkur', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Grand Southern Trunk Road, Guduvancheri, Potheri', 'Bangalore - Nelamangala Expressway, Peenya 2nd Stage, Peenya', 'Bangalore - Nelamangala Expressway, Madanayakanahalli, Bangalore Urban', 'Mumbai Delhi Highway, Mira, Mira-Bhayander', 'MIDC Pipeline Road, Shill Phata, Shill Gaon', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD']
+Time of Violation :
+DatetimeIndex(['2020-05-03 00:46:23', '2020-05-03 00:46:33',
+               '2020-05-03 01:09:43', '2020-05-03 01:09:32',
+               '2020-05-03 01:04:22', '2020-05-03 01:04:12',
+               '2020-05-03 01:19:33', '2020-05-03 04:23:45',
+               '2020-05-03 04:23:55', '2020-05-03 04:32:07',
+               '2020-05-03 04:32:17', '2020-06-03 01:03:00',
+               '2020-06-03 01:44:32', '2020-06-03 03:30:12',
+               '2020-06-03 03:30:32'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728039193914
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030736380
+Number of Vioaltions : 13
+Location of Violation:
+['Bellary Road, Sahakaranagara, Jakkur', 'Pune Nashik Road, Chakan, Pune', 'NH75, Mallaghatta, Kunigal taluk', 'NH75, ಚೊಟ್ಟನಹಳ್ಳಿ, Kunigal taluk', 'NH50, Manchar, Pune', 'NH60, Narayangaon, Pune', 'NH60, Ale, Pune']
+Time of Violation :
+DatetimeIndex(['2020-06-03 22:35:03', '2020-06-03 22:34:57',
+               '2020-06-03 22:36:41', '2020-06-03 22:37:01',
+               '2020-06-03 22:39:42', '2020-06-03 22:40:02',
+               '2020-06-03 23:14:59', '2020-06-03 23:15:19',
+               '2020-06-03 23:43:55', '2020-06-03 23:44:35',
+               '2020-06-03 23:46:20', '2020-06-03 23:46:40',
+               '2020-06-03 23:57:36'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306054402988
+Number of Vioaltions : 22
+Location of Violation:
+['Ahmadnagar Aurangabad Highway, Vadala Bhairoba, Ahmadnagar', 'Ahmadnagar Aurangabad Highway, Ghodegaon, Ahmadnagar', 'Bellary Road, Sahakaranagara, Jakkur', 'Bangalore - Nelamangala Expressway, Anchepalya, Bangalore Urban', 'Bangalore - Nelamangala Expressway, Madanayakanahalli, Bangalore Urban', 'Mumbai-Pune Expressway, Malavli, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 14:36:33', '2020-02-03 14:37:23',
+               '2020-02-03 14:37:33', '2020-02-03 14:38:53',
+               '2020-02-03 14:39:03', '2020-02-03 14:40:23',
+               '2020-04-03 01:04:36', '2020-04-03 01:04:46',
+               '2020-04-03 01:04:56', '2020-04-03 01:05:07',
+               '2020-04-03 01:05:17', '2020-05-03 04:29:16',
+               '2020-05-03 04:29:46', '2020-05-03 04:30:46',
+               '2020-05-03 04:30:56', '2020-05-03 04:31:37',
+               '2020-05-03 04:31:47', '2020-06-03 19:39:07',
+               '2020-06-03 19:39:17', '2020-06-03 19:39:27',
+               '2020-06-03 19:39:37', '2020-06-03 19:39:47'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032081595
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306055350574
+Number of Vioaltions : 24
+Location of Violation:
+['Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'NH965, Pune, Maharashtra', 'SH60, Ahmadnagar, Maharashtra', 'Outer Ring Road, Darga Mohalla, Mahadevapura', 'Outer Ring Road, Darga Mohalla, B. Narayanapura', 'Bellary Road, Gandhinagar, Yelahanka', 'Rajiv Gandhi Salai, Chennai City Corporation Limits, Kanchipuram', 'Sion Panvel Highway, Kharghar, Navi Mumbai', 'SH82, Nelavanki, Srinivasapura taluku', 'Megamart, Service Road, Mangamannapalya', 'Bellary Road, Sahakaranagara, Jakkur', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Sheni Mahatma Temple, Old Madras Road, Virgonagar', 'MIDC Pipeline Road, Shill Phata, Shill Gaon', 'Deccan College Road, Yerawada, Pune', 'SH9, Alakapura, Gauribidanuru taluk', 'Budigere Road, Handrahalli, Devanahalli taluk', 'Magadi Road, Magadi taluku, Ramanagara district', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Pune Nashik Road, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 03:11:30', '2020-02-03 06:33:54',
+               '2020-02-03 10:48:09', '2020-02-03 12:01:43',
+               '2020-02-03 16:22:12', '2020-03-03 00:45:18',
+               '2020-03-03 03:41:35', '2020-03-03 07:32:34',
+               '2020-03-03 14:20:22', '2020-04-03 00:04:55',
+               '2020-04-03 04:50:51', '2020-04-03 07:23:09',
+               '2020-04-03 14:44:47', '2020-04-03 21:40:45',
+               '2020-05-03 01:04:02', '2020-05-03 04:54:38',
+               '2020-05-03 06:55:53', '2020-06-03 01:44:41',
+               '2020-06-03 06:02:37', '2020-06-03 10:27:35',
+               '2020-06-03 17:50:48', '2020-06-03 18:37:58',
+               '2020-06-03 22:23:17', '2020-06-03 23:33:21'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728030761552
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 353612087115825
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Inner Ring Road, Amarjyothi Layout, Challaghatta', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'State Highway 60, Chas, Ahmadnagar', 'Link Road, Veerabadhra Nagar, Perumbakkam', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'Old Madras Road, Devasandra, Shree Vinayaka Layout', 'Pune Nashik Road, Chakan, Pune', 'Bellary Road, Sahakaranagara, Jakkur', 'Thane Belapur Road, Airoli, Greater Bombay', 'Mumbai-Pune Expressway, Nigdi, Ravet', 'Solapur Road, Bhandgaon, Pune', 'Anantapur, Anantapur district, Andhra Pradesh', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Papillon Place, Hill Street, Ramnagar Colony', 'Vandalur Kelambakkam Road, Kandigai, Kanchipuram district', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Hennur Bagalur Road, Thanisandra, Sri Krishna Nagar', 'Hosur Road, Electronics City Phase 1, Konappana Agrahara', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Soluru, Bangalore Mangalore Highway, Narasandra', 'Bangalore Mangalore Highway, Javaranahalli, Nagamangala taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:19:01', '2020-02-03 06:46:38',
+               '2020-02-03 10:41:44', '2020-02-03 11:36:20',
+               '2020-02-03 15:54:21', '2020-03-03 00:28:35',
+               '2020-03-03 02:55:53', '2020-03-03 07:17:00',
+               '2020-03-03 13:26:40', '2020-03-03 22:54:46',
+               '2020-04-03 04:29:31', '2020-04-03 07:21:44',
+               '2020-04-03 11:46:33', '2020-04-03 17:15:11',
+               '2020-05-03 01:13:46', '2020-05-03 04:38:56',
+               '2020-05-03 06:26:45', '2020-05-03 13:42:08',
+               '2020-06-03 05:03:31', '2020-06-03 08:54:56',
+               '2020-06-03 15:07:27', '2020-06-03 20:13:58',
+               '2020-06-03 22:18:46', '2020-06-03 23:09:09'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056969307
+Number of Vioaltions : 28
+Location of Violation:
+['Smile Stone, State Highway 60, Ahmadnagar', 'Outer Ring Road, Saraswathi Nagar, Kamakshipalya', 'Pune Saswad Road, Saswad, Pune', 'Mumbai-Pune Expressway, Tungarli, Pune', 'Old Pune–Mumbai Highway, Shivajinagar, Pune', 'SH60, Ralegan Siddhi, Ahmadnagar', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'Hosur Road, AECS Layout, A block', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'vaijapur rod, Chapaner, Aurangabad', 'Bellary Road, Sahakaranagara, Jakkur', 'Hosur Road, Suryanagar Phase 1, Neraluru', 'SH82, Nelavanki, Srinivasapura taluku', 'Bypass, Ramnagar Colony, Bavdhan', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Hindupur ByPass Road, Bachchahalli, Doddaballapura taluk', 'Madap Tunnel, Khalapur, Kulāba', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:03:22', '2020-02-03 04:47:20',
+               '2020-02-03 09:43:19', '2020-02-03 11:09:40',
+               '2020-02-03 12:12:40', '2020-02-03 16:24:26',
+               '2020-03-03 00:45:29', '2020-03-03 06:26:34',
+               '2020-03-03 07:22:56', '2020-03-03 16:59:36',
+               '2020-04-03 01:05:27', '2020-04-03 06:14:35',
+               '2020-04-03 07:22:54', '2020-06-03 07:40:00',
+               '2020-06-03 10:38:08', '2020-06-03 10:36:48',
+               '2020-06-03 10:38:18', '2020-06-03 10:48:00',
+               '2020-06-03 10:49:01', '2020-06-03 20:17:01',
+               '2020-06-03 20:17:11', '2020-06-03 20:17:21',
+               '2020-06-03 20:17:31', '2020-06-03 20:17:41',
+               '2020-06-03 20:22:49', '2020-06-03 20:22:59',
+               '2020-06-03 22:24:38', '2020-06-03 23:45:30'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032069228
+Number of Vioaltions : 24
+Location of Violation:
+['SH50;SH60, Ahmadnagar, Maharashtra', 'Vandaloor - Kelambalkam, Kandigai, Kanchipuram district', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'Rajiv Gandhi IT Expressway, Kasturibai Nagar, Adyar', 'SH60, Ahmadnagar, Maharashtra', 'Masala Super King, Sion Panvel Highway, Kharghar', 'Thane Belapur Road, Ghansoli, Rabale', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'Srinagar - Kanyakumari Highway, Kanaka Nagar, Hebbal', 'Rajiv Gandhi Salai, Chennai City Corporation Limits, Kanchipuram', 'Sion Panvel Highway, Kharghar, Kharghar Village', 'SH82, Nelavanki, Srinivasapura taluku', 'Priyadarshini Petrol / Gas Station, Hosur Road, Anantnagar', 'Eastern Expressway, RCF COlony, Bhandup East', 'Byatranpura Temple, Bellary Road, Sahakaranagara', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'New Holkar Bridge, Mandalay Lines, Pune', 'Bangalore Elevated Tollways Limited, AECS Layout, A block', 'Eastern Expressway, Chhatrapati Nagar, Kanjurmarg East', 'SH9, Alakapura, Gauribidanuru taluk', 'Mumbai-Pune Expressway, Talegaon, Pune', 'Mumbai-Pune Expressway, Chowk, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Narayangaon, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:56:29', '2020-02-03 07:21:31',
+               '2020-02-03 10:48:33', '2020-02-03 12:14:21',
+               '2020-02-03 16:18:05', '2020-03-03 00:44:39',
+               '2020-03-03 03:36:07', '2020-03-03 07:22:36',
+               '2020-03-03 14:20:52', '2020-04-03 00:04:10',
+               '2020-04-03 04:52:12', '2020-04-03 07:23:24',
+               '2020-04-03 13:36:30', '2020-04-03 20:42:17',
+               '2020-05-03 01:04:42', '2020-05-03 04:54:28',
+               '2020-05-03 06:54:46', '2020-06-03 00:14:10',
+               '2020-06-03 06:10:58', '2020-06-03 10:31:16',
+               '2020-06-03 19:13:51', '2020-06-03 20:20:21',
+               '2020-06-03 22:27:38', '2020-06-03 23:44:15'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 352353085236310
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056986939
+Number of Vioaltions : 24
+Location of Violation:
+['SH33, Obalapura, Tumkur taluk', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Mumbai-Pune Expressway, Malavli, Pune', 'SH30;SH60, Cantonment, Aurangabad', 'Bellary Road, Sahakaranagara, Jakkur', 'Kodigehalli Gate, Sahakaranagara, Jakkur', 'Mumbai Delhi Highway, Mira-Bhayander, Greater Bombay', 'SH104, Thanisandra, Bellahalli', 'Wakad Road, Vishal Nagar, Pimple Saudagar', 'Hebbal, Srinagar - Kanyakumari Highway, Kanaka Nagar', 'Kalewadi Main Road, Moraya Gosavi Raj Park, Thergaon', 'Jayshree Executive, Solapur Road, Theur Phata', 'SH82, Chimanahalli, Chintamani taluk', 'Bellary Road, Gandhinagar, Yelahanka', 'NH48, Talegaon, Pune', 'Mumbai Delhi Highway, Evershine Nagari, Vasai-Virar', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'Link Road 1, Char Imli, Kolar', 'Trident Hyundai, Outer Ring Road, Darga Mohalla', 'SH9, Tippaganahalli, Gauribidanuru taluk', 'Kamshet-1 Tunnel, Bedsa, Pune', 'Mumbai-Pune Expressway, Navi Mumbai, Greater Bombay', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'SH94, Kalari, Magadi taluku']
+Time of Violation :
+DatetimeIndex(['2020-02-03 04:30:55', '2020-02-03 07:29:06',
+               '2020-02-03 11:17:31', '2020-02-03 13:36:15',
+               '2020-02-03 17:59:55', '2020-03-03 01:08:12',
+               '2020-03-03 05:15:43', '2020-03-03 08:57:22',
+               '2020-03-03 17:02:48', '2020-04-03 01:02:16',
+               '2020-04-03 05:40:01', '2020-04-03 07:54:51',
+               '2020-04-03 15:55:23', '2020-05-03 00:51:34',
+               '2020-05-03 03:52:41', '2020-05-03 04:52:28',
+               '2020-05-03 07:02:37', '2020-06-03 01:50:07',
+               '2020-06-03 07:01:45', '2020-06-03 10:37:28',
+               '2020-06-03 19:37:01', '2020-06-03 20:26:41',
+               '2020-06-03 22:34:00', '2020-06-03 23:50:46'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056913776
+Number of Vioaltions : 24
+Location of Violation:
+['Mumbai-Pune Expressway, Talegaon, Pune', 'Grand Southern Trunk Road, Peerkankaranai, Perungalathur', 'Jejuri Morgaon Baramati Road, Jejuri, Pune', 'State Highway 60, Ahmadnagar, Maharashtra', 'Sion Panvel Highway, Kalamboli, Navi Mumbai', 'Thane Belapur North, Turbhe Village, Turbhe', 'Chimmasandra Cross, Old Madras Road, Virgonagar', 'Kogilu Cross Kannur, Kogilu Main Road, Gandhinagar', 'Medicity Hospital, Sion Panvel Highway, Kharghar', 'Sion Panvel Highway, Parsik Hill, Belapur CBD', 'Sant Jnaneshwar Marg, Bhosari, Pune', 'Solapur Road, Bhandgaon, Pune', 'Budigere Road, Chimasandra, Bangalore Urban', 'Western Express Highway, Kashigaon, Kashimira', 'Eastern Expressway, Kannamwar Nagar II, Vikhroli East', 'GKVK, Sahakaranagara, Jakkur', 'Mundhwa Bridge, Mundhwa, Pune', 'SH60, Ranjangaon, Pune', 'Gundur, Bangalore Urban, Karnataka', 'Mumbai-Pune Expressway, Savroli, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'NH60, Peth, Pune']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:20:28', '2020-02-03 06:55:54',
+               '2020-02-03 10:43:14', '2020-02-03 11:39:00',
+               '2020-02-03 16:04:41', '2020-03-03 00:43:39',
+               '2020-03-03 03:33:37', '2020-03-03 07:18:10',
+               '2020-03-03 14:20:32', '2020-03-03 23:41:10',
+               '2020-04-03 04:48:01', '2020-04-03 07:25:34',
+               '2020-04-03 11:48:04', '2020-04-03 18:06:36',
+               '2020-05-03 01:01:48', '2020-05-03 04:48:17',
+               '2020-05-03 06:33:37', '2020-05-03 22:52:30',
+               '2020-06-03 05:05:47', '2020-06-03 10:10:27',
+               '2020-06-03 17:50:18', '2020-06-03 20:15:26',
+               '2020-06-03 22:22:17', '2020-06-03 23:12:17'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 868728032179654
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056962393
+Number of Vioaltions : 24
+Location of Violation:
+['Pune Sholapur Road, Mohol, Solāpur', 'Old Pune–Mumbai Highway, Nigdi, Ravet', 'Jejuri Morgaon Baramati Road, Margaon, Pune', 'My Car, NH48, Wakad', 'SH60, Ralegan Siddhi, Ahmadnagar', 'Masala Super King, Sion Panvel Highway, Kharghar', 'Thane Belapur Road, Sector 15, Kopar Khairane', 'Kalewadi Main Road, Vishal Nagar, Pimple Saudagar', 'Srinagar - Kanyakumari Highway, Kanaka Nagar, Hebbal', 'Medicity Hospital, Sion Panvel Highway, Kharghar', 'Sion Panvel Highway, Artists Village Sector 8A, Belapur CBD', 'SH82, Chimanahalli, Chintamani taluk', 'Jubilan Motors Audi Showroom, Service Road, Electronics City Phase 1', 'Bellary Road, Gandhinagar, Yelahanka', 'Bellary Road, Sahakaranagara, Jakkur', 'Pragati Bulding co.op.soci., Eastern Express Highway, Sai Baba Nagar', 'Eastern Expressway, Vikhroli Gaon, Pirojsha Godrej Nagar', 'SH60, Ranjangaon, Pune', 'Gundur, Bangalore Urban, Karnataka', 'Madap Tunnel, Khalapur, Kulāba', 'Bangalore Mangalore Highway, Narasandra, Magadi taluku', 'Bangalore Mangalore Highway, Byadarahalli, Channarayapattana taluk']
+Time of Violation :
+DatetimeIndex(['2020-02-03 00:51:14', '2020-02-03 07:28:07',
+               '2020-02-03 10:47:59', '2020-02-03 11:47:20',
+               '2020-02-03 16:24:06', '2020-03-03 00:44:19',
+               '2020-03-03 03:33:57', '2020-03-03 07:21:46',
+               '2020-03-03 14:21:12', '2020-03-03 23:41:00',
+               '2020-04-03 04:50:41', '2020-04-03 07:27:24',
+               '2020-04-03 12:06:45', '2020-04-03 20:03:39',
+               '2020-05-03 01:10:43', '2020-05-03 04:48:37',
+               '2020-05-03 06:48:33', '2020-05-03 22:41:42',
+               '2020-06-03 05:10:22', '2020-06-03 10:11:43',
+               '2020-06-03 17:50:08', '2020-06-03 20:17:51',
+               '2020-06-03 22:22:37', '2020-06-03 23:25:33'],
+              dtype='datetime64[ns]', freq=None)------------------------------------------------------------------------------------------------------------------------For Vehicle with IMEI : 356306056823462
+Number of Vioaltions : 0
+Location of Violation:
+[]
+Time of Violation :
+DatetimeIndex([], dtype='datetime64[ns]', freq=None)
